@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-24 06:20:50,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
+2025-10-24 18:26:03,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
@@ -399,6 +399,7 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 ☘️安徽频道,#genre#
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+宿松新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 
 ☘️吉林频道,#genre#
@@ -497,7 +498,6 @@ CCTV-5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
