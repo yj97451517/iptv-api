@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-03-23 09:34:41,http://39.165.39.49:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-03-23 15:16:47,http://39.165.39.49:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://39.165.39.49:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2,http://39.165.39.49:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3,http://39.165.39.49:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-4,http://iptv.cwys.top/iptv2.php?id=CCTV4
+CCTV-3,http://iptv.cwys.top/iptv2.php?id=CCTV3
 CCTV-4,http://39.165.39.49:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5,http://39.165.39.49:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5+,http://39.165.39.49:19901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -13,19 +13,25 @@ CCTV-6,http://39.165.39.49:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&a
 CCTV-7,http://39.165.39.49:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8,http://39.165.39.49:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://39.165.39.49:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9,http://iptv.cwys.top/iptv2.php?id=CCTV9
 CCTV-10,http://39.165.39.49:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-10,http://iptv.cwys.top/iptv2.php?id=CCTV10
 CCTV-11,http://39.165.39.49:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-12,http://39.165.39.49:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-15,http://39.165.39.49:19901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-16,http://rihou.cc:555/tv/CCTV16(4K)
-CCTV-16,http://183.239.108.37:1698/hls/33/index.m3u8
 CCTV-17,http://39.165.39.49:19901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
+湖北卫视,http://iptv.cwys.top/iptv2.php?id=%25E6%25B9%2596%25E5%258C%2597%25E5%258D%25AB%25E8%25A7%2586
 深圳卫视,http://iptv.cwys.top/iptv2.php?id=%25E6%25B7%25B1%25E5%259C%25B3%25E5%258D%25AB%25E8%25A7%2586
+北京卫视,http://iptv.cwys.top/iptv2.php?id=%25E5%258C%2597%25E4%25BA%25AC%25E5%258D%25AB%25E8%25A7%2586
+青海卫视,http://iptv.cwys.top/iptv2.php?id=%25E9%259D%2592%25E6%25B5%25B7%25E5%258D%25AB%25E8%25A7%2586
+四川卫视,http://iptv.cwys.top/iptv2.php?id=%25E5%259B%259B%25E5%25B7%259D%25E5%258D%25AB%25E8%25A7%25864K
 三沙卫视,http://iptv.cwys.top/iptv2.php?id=%25E4%25B8%2589%25E6%25B2%2599%25E5%258D%25AB%25E8%25A7%2586
+新疆卫视,http://iptv.cwys.top/iptv2.php?id=%25E6%2596%25B0%25E7%2596%2586%25E5%258D%25AB%25E8%25A7%2586
 
 ☘️港澳台,#genre#
 民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
