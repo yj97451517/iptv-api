@@ -11,7 +11,9 @@ https://m3u.ibert.me/txt/fmml_index.txt
 https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
 http://1.94.31.214/live/live9/dgtv.txt
 http://ge.html-5.me//ii/91922.txt
-https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt  
+https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+
 
 # https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 
