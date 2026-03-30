@@ -2,6 +2,8 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+
+http://103.163.47.120:555/咪咕.txt
 https://iptv.cwys.top/iptv2.php?list
 https://t.freetv.fun/m3u/playlist.txt
 https://t.freetv.fun/m3u/united_states.txt
