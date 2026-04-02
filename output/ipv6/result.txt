@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-30 11:13:03,https://t.freetv.fun/live/cctv1-1.php
+2026-04-02 12:09:34,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -177,9 +177,17 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/index.m3u8
 金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-2.m3u8
 金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-4.m3u8
 金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-3.m3u8
+金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-5.m3u8
+金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-9.m3u8
+金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-10.m3u8
+金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-6.m3u8
+金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-7.m3u8
+金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-8.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du.m3u8
 上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du-2.m3u8
 南京教科,https://t.freetv.fun/live/nan-jing-jiao-ke.m3u8
@@ -205,6 +213,7 @@ CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-1.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-7.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-10.m3u8
+广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-8.m3u8
 #下載地址為https://freetv.fun/app
 #生成時間: 2026-03-23 00:00:02 UTC
 
@@ -240,6 +249,7 @@ America TV,https://t.freetv.fun/live/ch-ng-naughty-america.m3u8
 Canal 26 Argentina,https://t.freetv.fun/live/canal-26.m3u8
 Canal Rural Argentina,https://t.freetv.fun/live/canal-rural.m3u8
 Canal Rural Argentina,https://t.freetv.fun/live/canal-rural-1.m3u8
+Canal Rural Argentina,https://t.freetv.fun/live/canal-rural-2.m3u8
 Magazine,https://t.freetv.fun/live/nw-magazine.m3u8
 Magazine,https://t.freetv.fun/live/love-magazine.m3u8
 TEC TV HD,https://t.freetv.fun/live/tea-tv.m3u8
@@ -282,10 +292,12 @@ CN Brazil,https://t.freetv.fun/live/cnn-brasil-2.m3u8
 CN Brazil,https://t.freetv.fun/live/cnn-brasil-3.m3u8
 CN Brazil,https://t.freetv.fun/live/cnn-brasil-5.m3u8
 Cinemax Brasil,https://t.freetv.fun/live/cinebrasil.m3u8
+Cinemax Brasil,https://t.freetv.fun/live/cine-brasil.m3u8
 Desenhos clássicos TV,https://t.freetv.fun/live/pluto-tv-desenhos-classicos.m3u8
 ISTV [Brazil],https://t.freetv.fun/live/istv-1.m3u8
 ISTV [Brazil],https://t.freetv.fun/live/istv-2.m3u8
 ISTV [Brazil],https://t.freetv.fun/live/istv-3.m3u8
+ISTV [Brazil],https://t.freetv.fun/live/istv.m3u8
 K-Pop PlayTV (Brazil),https://t.freetv.fun/live/pop.m3u8
 REDE TV!,https://t.freetv.fun/live/rede-tv-es.m3u8
 Record News HD Brazil,https://t.freetv.fun/live/record-news-1.m3u8
@@ -312,6 +324,7 @@ TV Cultura,https://t.freetv.fun/live/tv-cultura-1.m3u8
 TV Cultura,https://t.freetv.fun/live/tv-cultura-2.m3u8
 TV Cultura,https://t.freetv.fun/live/tv-cultura-3.m3u8
 TV GAZETA SAO PAULO,https://t.freetv.fun/live/tv-gazeta.m3u8
+TV GAZETA SAO PAULO,https://t.freetv.fun/live/tv-gazeta-1.m3u8
 TV Nova Play,https://t.freetv.fun/live/play-tv.m3u8
 TV Nova Play,https://t.freetv.fun/live/play-tv-1.m3u8
 TVE RS Brazil,https://t.freetv.fun/live/tve-rs.m3u8
@@ -407,6 +420,7 @@ PANDERO MUSIC TOP 50 SANTIAGO CHILE LATAM,https://t.freetv.fun/live/music-top.m3
 REC TV,https://t.freetv.fun/live/rcg-tv-1.m3u8
 REC TV,https://t.freetv.fun/live/rcg-tv.m3u8
 TV SENADO VALPARAISO CHILE LATAM,https://t.freetv.fun/live/tv-senado.m3u8
+TV SENADO VALPARAISO CHILE LATAM,https://t.freetv.fun/live/tv-senado-2.m3u8
 TVN Señal Internacional,https://t.freetv.fun/live/tv-brasil-internacional.m3u8
 TVN,https://t.freetv.fun/live/tvn5.m3u8
 TVN,https://t.freetv.fun/live/tvn-2.m3u8
@@ -419,6 +433,7 @@ CCTV-8K,https://t.freetv.fun/live/cctv-8kchao-gao-qing.m3u8
 CCTV-8K,https://t.freetv.fun/live/cctv-8kchao-gao-qing-1.m3u8
 CCTV-8K,https://t.freetv.fun/live/cctv-8hd-1.m3u8
 CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV-8K,https://t.freetv.fun/live/cctv-8.m3u8
 CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing-3.m3u8
 CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing-4.m3u8
@@ -432,6 +447,7 @@ CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing-2.m3u8
 CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing-6.m3u8
 CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing-7.m3u8
 CCTV-4K,https://t.freetv.fun/live/cctv-4kgao-qing-8.m3u8
+CCTV-4K,https://t.freetv.fun/live/cctv-4k-1.m3u8
 CCTV4中文國際美洲,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 CCTV4中文國際美洲,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-1.m3u8
 CCTV4中文國際美洲,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
@@ -465,6 +481,8 @@ CETV-1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CETV-1,https://t.freetv.fun/live/cetv1-1.m3u8
 CETV-1,https://t.freetv.fun/live/cetv1-2.m3u8
 CETV-1,https://t.freetv.fun/live/cetv1-3.m3u8
+CETV-1,https://t.freetv.fun/live/cetv1-5.m3u8
+CETV-1,https://t.freetv.fun/live/cetv1-6.m3u8
 CGTN Documentary,https://t.freetv.fun/live/cgtn-documentary.m3u8
 CGTN Documentary,https://t.freetv.fun/live/cgtn-documentary-2.m3u8
 CGTN Documentary,https://t.freetv.fun/live/rt-documentary.m3u8
@@ -483,11 +501,15 @@ CGTN العربية,https://t.freetv.fun/live/rt-l-rby.m3u8
 CHC動作電影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 CHC動作電影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
 CHC動作電影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
+CHC動作電影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-3.m3u8
+CHC動作電影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
 CHC影迷電影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 CHC影迷電影,https://t.freetv.fun/live/chcgao-qing-dian-ying.m3u8
 CHC影迷電影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
 CHC影迷電影,https://t.freetv.fun/live/chcying-mi-dian-ying-1.m3u8
 CHC影迷電影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
+CHC影迷電影,https://t.freetv.fun/live/chcying-mi-dian-ying-4.m3u8
+CHC影迷電影,https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
 FH Channel,https://t.freetv.fun/live/nfl-channel.m3u8
 FH Channel,https://t.freetv.fun/live/nfl-channel-1.m3u8
 Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
@@ -501,13 +523,22 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 三沙衛視,https://t.freetv.fun/live/san-sha-wei-shi-7.m3u8
 三沙衛視,https://t.freetv.fun/live/san-sha-wei-shi-8.m3u8
 三沙衛視,https://t.freetv.fun/live/san-sha-wei-shi-9.m3u8
+三沙衛視,https://t.freetv.fun/live/san-sha-wei-shi-4.php
+三沙衛視,https://t.freetv.fun/live/san-sha-wei-shi-10.m3u8
+三沙衛視,https://t.freetv.fun/live/san-sha-wei-shi-11.m3u8
+三沙衛視,https://t.freetv.fun/live/san-sha-wei-shi-12.m3u8
 上海都市,https://t.freetv.fun/live/shang-hai-du-shi.m3u8
+上海都市,https://t.freetv.fun/live/shang-hai-du-shi-2.m3u8
+上海都市,https://t.freetv.fun/live/shang-hai-du-shi-3.m3u8
+上海都市,https://t.freetv.fun/live/shang-hai-du-shi-4.m3u8
+上海都市,https://t.freetv.fun/live/shang-hai-du-shi-5.m3u8
 上虞文化影視,https://t.freetv.fun/live/shang-yu-wen-hua.m3u8
 上虞文化影視,https://t.freetv.fun/live/shang-yu-wen-hua-ying-yuan.m3u8
 上虞文化影視,https://t.freetv.fun/live/shang-yu-wen-hua-ying-shi.m3u8
 上虞新聞綜合,https://t.freetv.fun/live/shang-yu-xin-wen-zong-he.m3u8
 上虞新聞綜合,https://t.freetv.fun/live/zhe-jiang-shang-yu-xin-wen-zong-he.m3u8
 佛山公共,https://t.freetv.fun/live/fo-shan-gong-gong.m3u8
+佛山公共,https://t.freetv.fun/live/fo-shan-gong-gong-1.m3u8
 佛山新聞綜合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he.m3u8
 佛山新聞綜合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-2.m3u8
 佛山新聞綜合,https://t.freetv.fun/live/xiang-shan-xin-wen-zong-he-1.m3u8
@@ -519,11 +550,17 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 內蒙古衛視,https://t.freetv.fun/live/nei-meng-gu-wei-shi-4.m3u8
 內蒙古衛視,https://t.freetv.fun/live/nei-meng-gu-wei-shi.m3u8
 內蒙古衛視,https://t.freetv.fun/live/nei-meng-gu-wei-shi-3.m3u8
+內蒙古衛視,https://t.freetv.fun/live/nei-meng-gu-wei-shi-2.m3u8
+內蒙古衛視,https://t.freetv.fun/live/nei-meng-gu-wei-shi-1.m3u8
 兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi-1.m3u8
 兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi.m3u8
 兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi-2.m3u8
 兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi-4.m3u8
 兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi-3.m3u8
+兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi-7.m3u8
+兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi-8.m3u8
+兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi-6.m3u8
+兵團衛視,https://t.freetv.fun/live/bing-tuan-wei-shi-9.m3u8
 劉德華,https://t.freetv.fun/live/liu-de-hua.flv
 南京新聞綜合,https://t.freetv.fun/live/hui-nan-xin-wen-zong-he.m3u8
 南京新聞綜合,https://t.freetv.fun/live/hui-nan-xin-wen-zong-he-1.m3u8
@@ -538,8 +575,11 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 南國都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-7.m3u8
 南國都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-8.m3u8
 南寧公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
+南寧公共,https://t.freetv.fun/live/nan-zhu-gong-gong-1.m3u8
+南寧公共,https://t.freetv.fun/live/nan-zhu-gong-gong-2.m3u8
 南寧新聞綜合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he.m3u8
 南寧新聞綜合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-1.m3u8
+南寧新聞綜合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-2.m3u8
 南寧都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo.m3u8
 南寧都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo-1.m3u8
 南平新聞綜合,https://t.freetv.fun/live/si-ping-xin-wen-zong-he.m3u8
@@ -556,9 +596,22 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 吉林衛視,https://t.freetv.fun/live/ji-lin-wei-shi-2.php
 吉林衛視,https://t.freetv.fun/live/ji-lin-wei-shi-5.m3u8
 吉林衛視,https://t.freetv.fun/live/ji-lin-wei-shi-6.php
+吉林衛視,https://t.freetv.fun/live/ji-lin-wei-shi-12.m3u8
+吉林衛視,https://t.freetv.fun/live/ji-lin-wei-shi-10.m3u8
+吉林衛視,https://t.freetv.fun/live/ji-lin-wei-shi-7.m3u8
+吉林衛視,https://t.freetv.fun/live/ji-lin-wei-shi-11.m3u8
+吉林衛視,https://t.freetv.fun/live/ji-lin-wei-shi-13.m3u8
 吉林都市,https://t.freetv.fun/live/ji-lin-du-shi.m3u8
 哈哈炫动,https://t.freetv.fun/live/ha-ha-xuan-dong.m3u8
+哈哈炫动,https://t.freetv.fun/live/ha-ha-xuan-dong-1.m3u8
+哈哈炫动,https://t.freetv.fun/live/ha-ha-xuan-dong-2.m3u8
+哈哈炫动,https://t.freetv.fun/live/ha-ha-xuan-dong-3.m3u8
+哈哈炫动,https://t.freetv.fun/live/ha-ha-xuan-dong-4.m3u8
+哈哈炫动,https://t.freetv.fun/live/ha-ha-xuan-dong-5.m3u8
+哈哈炫动,https://t.freetv.fun/live/ha-ha-xuan-dong-6.m3u8
+哈哈炫动,https://t.freetv.fun/live/ha-ha-xuan-dong-7.m3u8
 哈爾濱娛樂,https://t.freetv.fun/live/ha-er-bin-yu-le.m3u8
+哈爾濱娛樂,https://t.freetv.fun/live/ha-er-bin-yu-le-1.m3u8
 哈爾濱影視,https://t.freetv.fun/live/ha-er-bin-ying-shi-1.m3u8
 哈爾濱新聞綜合,https://t.freetv.fun/live/ha-er-bin-xin-wen-zong-he-2.m3u8
 哈爾濱生活,https://t.freetv.fun/live/ha-er-bin-sheng-huo.m3u8
@@ -569,6 +622,8 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-4.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-5.php
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-6.m3u8
+嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-8.m3u8
+嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-9.m3u8
 嘉興新聞綜合,https://t.freetv.fun/live/jia-xing-xin-wen-zong-he.m3u8
 嘉興新聞綜合,https://t.freetv.fun/live/jia-xing-xin-wen-zong-he-3.m3u8
 大灣區衛視,https://t.freetv.fun/live/da-wan-qu-wei-shi.m3u8
@@ -594,6 +649,8 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 大灣區衛視,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-5.m3u8
 大灣區衛視,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-7.m3u8
 大灣區衛視,https://t.freetv.fun/live/da-wan-qu-wei-shi-10.php
+大灣區衛視,https://t.freetv.fun/live/da-wan-qu-wei-shi-10.m3u8
+大灣區衛視,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-12.m3u8
 天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-3.php
 天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-4.m3u8
 天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-6.m3u8
@@ -604,6 +661,14 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-9.m3u8
 天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-12.m3u8
 天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-1.m3u8
+天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-5.m3u8
+天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-13.m3u8
+天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-16.m3u8
+天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-10.m3u8
+天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-8.m3u8
+天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-14.m3u8
+天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-15.m3u8
+天津衛視,https://t.freetv.fun/live/tian-jin-wei-shi-17.m3u8
 太原新聞綜合,https://t.freetv.fun/live/tai-gu-xin-wen-zong-he.m3u8
 太原新聞綜合,https://t.freetv.fun/live/tai-gu-xin-wen-zong-he-1.m3u8
 太原新聞綜合,https://t.freetv.fun/live/tai-gu-xin-wen-zong-he-3.m3u8
@@ -619,6 +684,18 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi.php
 安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-1.m3u8
 安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-3.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-12.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-14.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-18.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-13.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-7.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-6.php
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-9.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-10.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-11.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-15.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-16.m3u8
+安徽衛視,https://t.freetv.fun/live/an-hui-wei-shi-17.m3u8
 安慶新聞綜合,https://t.freetv.fun/live/rui-an-xin-wen-zong-he.m3u8
 安陽新聞綜合,https://t.freetv.fun/live/ya-an-xin-wen-zong-he-1.m3u8
 宜興新聞,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
@@ -630,6 +707,10 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 寧夏衛視,https://t.freetv.fun/live/zhu-xia-wei-shi-1.m3u8
 寧夏衛視,https://t.freetv.fun/live/zhu-xia-wei-shi-2.m3u8
 寧夏衛視,https://t.freetv.fun/live/zhu-xia-wei-shi-3.m3u8
+寧夏衛視,https://t.freetv.fun/live/zhu-xia-wei-shi-9.m3u8
+寧夏衛視,https://t.freetv.fun/live/zhu-xia-wei-shi-8.m3u8
+寧夏衛視,https://t.freetv.fun/live/zhu-xia-wei-shi-7.m3u8
+寧夏衛視,https://t.freetv.fun/live/zhu-xia-wei-shi-10.m3u8
 山東教育,https://t.freetv.fun/live/shan-dong-jiao-yu-2.m3u8
 山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-2.php
 山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-5.m3u8
@@ -643,6 +724,17 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-16.php
 山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
 山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-9.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-10.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-11.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-12.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-14.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-15.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-17.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-18.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-20.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-21.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-22.m3u8
+山東衛視,https://t.freetv.fun/live/shan-dong-wei-shi-23.m3u8
 山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-1.m3u8
 山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-11.m3u8
 山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-2-1.m3u8
@@ -653,17 +745,28 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-5.m3u8
 山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-3.php
 山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
+山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-10.m3u8
+山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-12.m3u8
+山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-8-1.m3u8
+山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-9.m3u8
+山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-13.m3u8
+山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-15.m3u8
+山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-7-1.php
+山西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-14.m3u8
 嶺南戲曲,https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
 嶺南戲曲,https://t.freetv.fun/live/ling-nan-xi-qu-1.m3u8
 嶺南戲曲,https://t.freetv.fun/live/ling-nan-xi-qu-3.m3u8
 嶺南戲曲,https://t.freetv.fun/live/ling-nan-xi-qu-4.m3u8
 嶺南戲曲,https://t.freetv.fun/live/ling-nan-xi-qu-2.m3u8
+嶺南戲曲,https://t.freetv.fun/live/yan-dong-ling-nan-xi-qu.m3u8
 廈門衛視,https://t.freetv.fun/live/sha-men-wei-shi.m3u8
 廈門衛視,https://t.freetv.fun/live/sha-men-wei-shi-2.m3u8
 廈門衛視,https://t.freetv.fun/live/sha-men-wei-shi-3.m3u8
 廈門衛視,https://t.freetv.fun/live/sha-men-wei-shi-1.m3u8
 廈門衛視,https://t.freetv.fun/live/sha-men-wei-shi-3.php
 廈門衛視,https://t.freetv.fun/live/sha-men-wei-shi-4.php
+廈門衛視,https://t.freetv.fun/live/sha-men-wei-shi-5.m3u8
+廈門衛視,https://t.freetv.fun/live/sha-men-wei-shi-6.m3u8
 廣州新聞,https://t.freetv.fun/live/yan-zhou-xin-wen-1.m3u8
 廣州新聞,https://t.freetv.fun/live/yan-zhou-xin-wen-3.m3u8
 廣州新聞,https://t.freetv.fun/live/yan-zhou-xin-wen-4.php
@@ -710,6 +813,7 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 廣東少兒,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-5.m3u8
 廣東少兒,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-7.m3u8
 廣東少兒,https://t.freetv.fun/live/yan-dong-shao-er-5.m3u8
+廣東少兒,https://t.freetv.fun/live/yan-dong-shao-er-6.m3u8
 廣東影視,https://t.freetv.fun/live/yan-dong-ying-shi.m3u8
 廣東影視,https://t.freetv.fun/live/yan-dong-ying-shi-1.m3u8
 廣東影視,https://t.freetv.fun/live/yan-dong-ying-shi-3.php
@@ -728,6 +832,7 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 廣東影視,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-1.m3u8
 廣東影視,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-10.m3u8
 廣東影視,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-11.m3u8
+廣東影視,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-13.m3u8
 廣東新聞,https://t.freetv.fun/live/yan-dong-xin-wen-10.m3u8
 廣東新聞,https://t.freetv.fun/live/yan-dong-xin-wen-1.php
 廣東新聞,https://t.freetv.fun/live/yan-dong-xin-wen-2.m3u8
@@ -748,6 +853,7 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 廣東新聞,https://t.freetv.fun/live/yan-dong-xin-wen-4.m3u8
 廣東新聞,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-9.m3u8
 廣東新聞,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-10.m3u8
+廣東新聞,https://t.freetv.fun/live/yan-dong-xin-wen-5.m3u8
 廣東民生,https://t.freetv.fun/live/yan-dong-min-sheng-1.m3u8
 廣東民生,https://t.freetv.fun/live/yan-dong-min-sheng-6.m3u8
 廣東民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing.m3u8
@@ -769,6 +875,7 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 廣東移動頻道,https://t.freetv.fun/live/yan-dong-yi-dong-1.m3u8
 廣東經濟科教,https://t.freetv.fun/live/yan-dong-jing-ji-ke-jiao.m3u8
 廣東綜藝4K,https://t.freetv.fun/live/yan-dong-zong-yi.m3u8
+廣東綜藝4K,https://t.freetv.fun/live/yan-dong-zong-yi-1.m3u8
 廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-7.m3u8
 廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-8.m3u8
 廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-1.m3u8
@@ -799,6 +906,20 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-10.m3u8
 廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-13.php
 廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-10.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-16.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-20.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-18.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-22.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-25.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-28.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-17.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-19.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-21.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-23.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-24.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-26.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-27.m3u8
+廣東衛視,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-9.m3u8
 廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-4.php
 廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-1.m3u8
 廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
@@ -823,15 +944,19 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-5.m3u8
 廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-8.m3u8
 廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-12.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-11.m3u8
 廣西國際,https://t.freetv.fun/live/yan-xi-guo-ji.m3u8
 廣西國際,https://t.freetv.fun/live/yan-xi-guo-ji-1.m3u8
 廣西國際,https://t.freetv.fun/live/yan-xi-guo-ji-2.m3u8
 廣西影視,https://t.freetv.fun/live/yan-xi-ying-shi.m3u8
 廣西影視,https://t.freetv.fun/live/yan-xi-ying-shi-1.m3u8
+廣西影視,https://t.freetv.fun/live/yan-xi-ying-shi-2.m3u8
 廣西新聞,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 廣西新聞,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
+廣西新聞,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
 廣西綜藝,https://t.freetv.fun/live/yan-xi-zong-yi-lu-you.m3u8
 廣西綜藝,https://t.freetv.fun/live/yan-xi-zong-yi-lu-you-1.m3u8
+廣西綜藝,https://t.freetv.fun/live/yan-xi-zong-yi-lu-you-2.m3u8
 廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi.m3u8
 廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-3.php
 廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-2.php
@@ -839,10 +964,22 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-6.m3u8
 廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-13.m3u8
 廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-1.php
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-9.m3u8
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-8.m3u8
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-15.m3u8
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-11.m3u8
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-7.m3u8
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-5.m3u8
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-10.m3u8
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-12.m3u8
+廣西衛視,https://t.freetv.fun/live/yan-xi-wei-shi-14.m3u8
 廣西都市頻道,https://t.freetv.fun/live/yan-xi-du-shi.m3u8
 廣西都市頻道,https://t.freetv.fun/live/yan-xi-du-shi-1.m3u8
+廣西都市頻道,https://t.freetv.fun/live/yan-xi-du-shi-2.m3u8
 延邊衛視,https://t.freetv.fun/live/yan-bian-wei-shi-1.m3u8
 延邊衛視,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
+延邊衛視,https://t.freetv.fun/live/yan-bian-wei-shi-2.m3u8
+延邊衛視,https://t.freetv.fun/live/yan-bian-wei-shi.m3u8
 揭陽新聞綜合,https://t.freetv.fun/live/jian-yang-xin-wen-zong-he.flv
 揭陽新聞綜合,https://t.freetv.fun/live/song-yang-xin-wen-zong-he.m3u8
 揭陽新聞綜合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing.m3u8
@@ -861,6 +998,8 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 新疆衛視,https://t.freetv.fun/live/xin-jiang-wei-shi-3.m3u8
 新疆衛視,https://t.freetv.fun/live/xin-jiang-wei-shi-4.m3u8
 新疆衛視,https://t.freetv.fun/live/xin-jiang-wei-shi-1.m3u8
+新疆衛視,https://t.freetv.fun/live/xin-jiang-wei-shi-2.m3u8
+新疆衛視,https://t.freetv.fun/live/xin-jiang-wei-shi-5.m3u8
 新鄉新聞綜合,https://t.freetv.fun/live/xin-xiang-zong-he.m3u8
 晉城新聞綜合,https://t.freetv.fun/live/bai-cheng-xin-wen-zong-he.m3u8
 晉城新聞綜合,https://t.freetv.fun/live/bai-cheng-xin-wen-zong-he-2.m3u8
@@ -870,6 +1009,14 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-4.php
 東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-6.php
 東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi.php
+東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-8.m3u8
+東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-13.m3u8
+東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-11.m3u8
+東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-14.m3u8
+東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-5.m3u8
+東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-6.m3u8
+東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-12.m3u8
+東南衛視,https://t.freetv.fun/live/dong-nan-wei-shi-15.m3u8
 東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-1.m3u8
 東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-3.m3u8
 東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-8.php
@@ -883,6 +1030,19 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-10.m3u8
 東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-11.php
 東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-12.php
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-20.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-17.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-13.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-14.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-15.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-16.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-19.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-21.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-22.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-23.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-24.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-25.m3u8
+東方衛視,https://t.freetv.fun/live/dong-fang-wei-shi-26.m3u8
 東營新聞綜合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 武漢新聞綜合,https://t.freetv.fun/live/wu-yi-xin-wen-zong-he.m3u8
 武漢新聞綜合,https://t.freetv.fun/live/wu-yi-xin-wen-zong-he-1.m3u8
@@ -912,6 +1072,7 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 汕頭經濟生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-4.m3u8
 汕頭經濟生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-7.m3u8
 汕頭經濟生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-8.m3u8
+汕頭經濟生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-10.m3u8
 汕頭綜合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing.m3u8
 汕頭綜合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-1.m3u8
 汕頭綜合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-2.m3u8
@@ -937,6 +1098,16 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-1.m3u8
 江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-9.m3u8
 江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-12.php
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-4.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-16.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-17.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-13.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-18.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-19.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-20.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-21.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-22.m3u8
+江蘇衛視,https://t.freetv.fun/live/jiang-su-wei-shi-23.m3u8
 江蘇衛視(B),https://t.freetv.fun/live/jiang-su-wei-shi-gao-qing.m3u8
 江西少兒,https://t.freetv.fun/live/jiang-xi-shao-er-jia-ting.m3u8
 江西新聞,https://t.freetv.fun/live/jiang-xi-xin-wen.m3u8
@@ -949,6 +1120,17 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-6.m3u8
 江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-2.m3u8
 江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-7.php
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-5.php
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-13.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-14.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-11.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-16.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-8.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-9.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-10.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-15.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-17.m3u8
+江西衛視,https://t.freetv.fun/live/jiang-xi-wei-shi-18.m3u8
 河北經濟生活,https://t.freetv.fun/live/huai-bei-jing-ji-sheng-huo-1.flv
 河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-5.m3u8
 河北衛視,https://t.freetv.fun/live/he-bei-wei-shi.m3u8
@@ -959,6 +1141,17 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-3.m3u8
 河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-1.m3u8
 河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-1.php
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-13.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-17.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-10.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-4.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-7.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-9.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-11.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-14.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-15.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-16.m3u8
+河北衛視,https://t.freetv.fun/live/he-bei-wei-shi-18.m3u8
 河北農民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
 河北農民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河南衛視,https://t.freetv.fun/live/he-nan-wei-shi.m3u8
@@ -976,6 +1169,12 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-10.m3u8
 河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-1.m3u8
 河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-8.m3u8
+河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-11.m3u8
+河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-10.php
+河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-12.m3u8
+河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-16.m3u8
+河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-17.m3u8
+河南衛視,https://t.freetv.fun/live/he-nan-wei-shi-18.m3u8
 洪金寶,https://t.freetv.fun/live/hong-jin-bao.flv
 洪金寶,https://t.freetv.fun/live/hong-jin-bao-1.php
 浙江國際,https://t.freetv.fun/live/zhe-jiang-guo-ji-9.m3u8
@@ -983,6 +1182,7 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 浙江國際,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
 浙江少兒頻道,https://t.freetv.fun/live/zhe-jiang-shao-er-5.m3u8
 浙江少兒頻道,https://t.freetv.fun/live/zhe-jiang-shao-er.m3u8
+浙江少兒頻道,https://t.freetv.fun/live/zhe-jiang-shao-er-2.m3u8
 浙江教育科技,https://t.freetv.fun/live/zhe-jiang-jiao-yu.m3u8
 浙江教育科技,https://t.freetv.fun/live/zhe-jiang-jiao-ke-1.m3u8
 浙江教育科技,https://t.freetv.fun/live/zhe-jiang-jiao-ke.m3u8
@@ -992,18 +1192,21 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 浙江新聞,https://t.freetv.fun/live/zhe-jiang-xin-wen.m3u8
 浙江新聞,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8
 浙江新聞,https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8
+浙江新聞,https://t.freetv.fun/live/zhe-jiang-xin-wen-5.m3u8
 浙江民生休閒,https://t.freetv.fun/live/zhe-jiang-min-sheng.m3u8
 浙江民生休閒,https://t.freetv.fun/live/zhe-jiang-min-sheng-xiu-xian-2.m3u8
 浙江民生休閒,https://t.freetv.fun/live/zhe-jiang-min-sheng-xiu-xian.m3u8
 浙江民生休閒,https://t.freetv.fun/live/zhe-jiang-min-sheng-xiu-xian-1.m3u8
 浙江民生休閒,https://t.freetv.fun/live/zhe-jiang-min-sheng-2.m3u8
 浙江民生休閒,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
+浙江民生休閒,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 浙江經濟生活,https://t.freetv.fun/live/zhe-jiang-jing-ji.m3u8
 浙江經濟生活,https://t.freetv.fun/live/zhe-jiang-sheng-huo.m3u8
 浙江經濟生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo.m3u8
 浙江經濟生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 浙江經濟生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-4.m3u8
 浙江經濟生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
+浙江經濟生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-1.m3u8
 浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-4.m3u8
 浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-5.m3u8
 浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-1.php
@@ -1021,6 +1224,15 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-11.m3u8
 浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-12.m3u8
 浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-13.m3u8
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-11.php
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-14.m3u8
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-16.m3u8
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-21.m3u8
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-18.m3u8
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-15.m3u8
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-17.m3u8
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-19.m3u8
+浙江衛視,https://t.freetv.fun/live/zhe-jiang-wei-shi-22.m3u8
 浙江錢江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-2.m3u8
 浙江錢江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-1.m3u8
 浙江錢江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi.m3u8
@@ -1029,9 +1241,19 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-2.m3u8
 海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-3.m3u8
 海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-4.m3u8
+海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-6.m3u8
+海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-8.m3u8
+海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-12.m3u8
+海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-5.m3u8
+海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-9.m3u8
+海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-10.m3u8
+海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-11.m3u8
+海南衛視,https://t.freetv.fun/live/hai-nan-wei-shi-13.m3u8
 海峽衛視,https://t.freetv.fun/live/hai-xia-wei-shi.m3u8
 海峽衛視,https://t.freetv.fun/live/hai-xia-wei-shi-1.m3u8
 海峽衛視,https://t.freetv.fun/live/hai-xia-wei-shi-10.m3u8
+海峽衛視,https://t.freetv.fun/live/hai-xia-wei-shi-6.m3u8
+海峽衛視,https://t.freetv.fun/live/hai-xia-wei-shi-7.m3u8
 海綿寶寶頻道,https://t.freetv.fun/live/hai-mian-bao-bao.flv
 深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-7.m3u8
 深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-9.php
@@ -1046,6 +1268,16 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-10.m3u8
 深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-6.php
 深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-11.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-14.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-16.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-20.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-19.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-12.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-13.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-15.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-17.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-18.m3u8
+深圳衛視,https://t.freetv.fun/live/shen-zhen-wei-shi-21.m3u8
 深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi.m3u8
 深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi-1.m3u8
 深圳電視劇,https://t.freetv.fun/live/shen-zhen-dian-shi.m3u8
@@ -1073,6 +1305,14 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-8.php
 湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-7.php
 湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-1.m3u8
+湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-10.m3u8
+湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-15.m3u8
+湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-16.m3u8
+湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-17.m3u8
+湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-13.m3u8
+湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-9.m3u8
+湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-12.m3u8
+湖北衛視,https://t.freetv.fun/live/hu-bei-wei-shi-14.m3u8
 湖南國際,https://t.freetv.fun/live/hu-nan-guo-ji-1.m3u8
 湖南國際,https://t.freetv.fun/live/hu-nan-guo-ji.m3u8
 湖南娛樂,https://t.freetv.fun/live/hu-nan-yu-le.m3u8
@@ -1101,6 +1341,7 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 湖州新聞綜合,https://t.freetv.fun/live/lu-zhou-xin-wen-zong-he-1.m3u8
 湖州新聞綜合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
 湖州新聞綜合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
+湖州新聞綜合,https://t.freetv.fun/live/wu-zhou-xin-wen-zong-he.m3u8
 湛江新聞綜合,https://t.freetv.fun/live/wu-jiang-xin-wen-zong-he.m3u8
 湛江新聞綜合,https://t.freetv.fun/live/qu-jiang-xin-wen-zong-he.m3u8
 湛江新聞綜合,https://t.freetv.fun/live/jiang-jin-xin-wen-zong-he.m3u8
@@ -1127,17 +1368,37 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 潮州綜合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-3.m3u8
 潮州綜合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-7.m3u8
 潮州綜合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-8.m3u8
+潮州綜合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-10.m3u8
 玉林新聞綜合,https://t.freetv.fun/live/ji-lin-xin-wen-zong-he.m3u8
 珠海生活服務,https://t.freetv.fun/live/hai-zhu-sheng-huo-fu-wu.m3u8
 現代教育,https://t.freetv.fun/live/xian-dai-jiao-yu.m3u8
 現代教育,https://t.freetv.fun/live/xian-dai-jiao-yu-2.m3u8
 甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi.m3u8
 甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-1.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-9.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-6.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-5.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-2.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-4.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-7.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-8.m3u8
+甘肅衛視,https://t.freetv.fun/live/gan-su-wei-shi-10.m3u8
 生活時尚,https://t.freetv.fun/live/sheng-huo-shi-shang-1.m3u8
+生活時尚,https://t.freetv.fun/live/sheng-huo-shi-shang.m3u8
+生活時尚,https://t.freetv.fun/live/sheng-huo-shi-shang-2.m3u8
+生活時尚,https://t.freetv.fun/live/sheng-huo-shi-shang-3.m3u8
+生活時尚,https://t.freetv.fun/live/sheng-huo-shi-shang-4.m3u8
+生活時尚,https://t.freetv.fun/live/sheng-huo-shi-shang-5.m3u8
 眉山綜合,https://t.freetv.fun/live/e-mei-shan-zong-he.m3u8
 眉山綜合,https://t.freetv.fun/live/mei-shan-dan-leng-zong-he.m3u8
 眉山綜合,https://t.freetv.fun/live/mei-shan-dan-leng-zong-he-1.php
 第一財經,https://t.freetv.fun/live/di-yi-cai-jing-1.m3u8
+第一財經,https://t.freetv.fun/live/di-yi-cai-jing.m3u8
+第一財經,https://t.freetv.fun/live/di-yi-cai-jing-2.m3u8
+第一財經,https://t.freetv.fun/live/di-yi-cai-jing-3.m3u8
+第一財經,https://t.freetv.fun/live/di-yi-cai-jing-4.m3u8
+第一財經,https://t.freetv.fun/live/di-yi-cai-jing-5.m3u8
 紀錄片頻道,https://t.freetv.fun/live/ji-lu-pian.m3u8
 紹興公共,https://t.freetv.fun/live/shao-xing-gong-gong-pin-dao-2.m3u8
 紹興公共,https://t.freetv.fun/live/shao-xing-gong-gong-pin-dao-1.m3u8
@@ -1145,6 +1406,7 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 紹興公共,https://t.freetv.fun/live/shao-xing-gong-gong-1-1.m3u8
 紹興文化影視,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
 紹興文化影視,https://t.freetv.fun/live/shao-xing-wen-hua-ying-yuan-2.m3u8
+紹興文化影視,https://t.freetv.fun/live/zhe-jiang-shao-xing-wen-hua-ying-shi.m3u8
 紹興新聞綜合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-1-1.m3u8
 紹興新聞綜合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-2.m3u8
 紹興新聞綜合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3.m3u8
@@ -1186,12 +1448,26 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 西藏衛視,https://t.freetv.fun/live/xi-cang-wei-shi-4.m3u8
 西藏衛視,https://t.freetv.fun/live/xi-cang-wei-shi-7.php
 西藏衛視,https://t.freetv.fun/live/xi-cang-wei-shi-3.m3u8
+西藏衛視,https://t.freetv.fun/live/xi-cang-wei-shi-10.m3u8
+西藏衛視,https://t.freetv.fun/live/xi-cang-wei-shi-2.m3u8
+西藏衛視,https://t.freetv.fun/live/xi-cang-wei-shi.m3u8
+西藏衛視,https://t.freetv.fun/live/xi-cang-wei-shi-8.m3u8
+西藏衛視,https://t.freetv.fun/live/xi-cang-wei-shi-9.m3u8
 貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-1.php
 貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-3.m3u8
 貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-4.m3u8
 貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-5.m3u8
 貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-8.php
 貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi.php
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-2.m3u8
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-6.m3u8
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-7.m3u8
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-9.m3u8
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-10.m3u8
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-11.m3u8
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-12.m3u8
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-13.m3u8
+貴州衛視,https://t.freetv.fun/live/gui-zhou-wei-shi-14.m3u8
 遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi.m3u8
 遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-5.m3u8
 遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-6.m3u8
@@ -1200,6 +1476,15 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-7.php
 遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-3.m3u8
 遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-4.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-9.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-12.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-14.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-16.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-13.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-15.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-8.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-10.m3u8
+遼寧衛視,https://t.freetv.fun/live/liao-zhu-wei-shi-17.m3u8
 遼寧體育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
 遼寧體育,https://t.freetv.fun/live/liao-zhu-ti-yu-1.m3u8
 遼寧體育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
@@ -1216,6 +1501,17 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-1.m3u8
 重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-11.m3u8
 重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-12.php
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-17.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-10.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-6.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-7.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-8.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-13.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-15.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-16.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-18.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-19.m3u8
+重慶衛視,https://t.freetv.fun/live/zhong-qing-wei-shi-20.m3u8
 金華新聞綜合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he.m3u8
 金華新聞綜合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he-1.m3u8
 鎮江新聞綜合,https://t.freetv.fun/live/zhen-jiang-xin-wen-zong-he.m3u8
@@ -1245,6 +1541,13 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-3-1.m3u8
 陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-13.m3u8
 陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-14.php
+陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-9-1.m3u8
+陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-10-1.m3u8
+陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-12-1.m3u8
+陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-13-1.m3u8
+陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-14-1.php
+陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-15-1.m3u8
+陝西衛視,https://t.freetv.fun/live/shan-xi-wei-shi-16.m3u8
 雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-1.php
 雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
 雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-10.m3u8
@@ -1255,7 +1558,17 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-1.m3u8
 雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-3.php
 雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-7.php
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-9.m3u8
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-11.m3u8
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-13.m3u8
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-8.m3u8
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-14.m3u8
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-15.m3u8
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-16.m3u8
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-17.m3u8
+雲南衛視,https://t.freetv.fun/live/yun-nan-wei-shi-18.m3u8
 雲南都市,https://t.freetv.fun/live/yun-nan-du-shi-1.m3u8
+雲南都市,https://t.freetv.fun/live/yun-nan-du-shi.m3u8
 電影頻道,https://t.freetv.fun/live/dian-ying.flv
 電影頻道,https://t.freetv.fun/live/dian-ying-1.flv
 電影頻道,https://t.freetv.fun/live/dian-ying-2.flv
@@ -1266,6 +1579,10 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 電影頻道,https://t.freetv.fun/live/dian-ying-8.flv
 電影頻道,https://t.freetv.fun/live/dian-ying-9.flv
 電影頻道,https://t.freetv.fun/live/dian-ying-10.flv
+電影頻道,https://t.freetv.fun/live/dian-ying-6.flv
+電影頻道,https://t.freetv.fun/live/tao-dian-ying.m3u8
+電影頻道,https://t.freetv.fun/live/tao-dian-ying-1.m3u8
+電影頻道,https://t.freetv.fun/live/tao-dian-ying-2.m3u8
 青海衛視,https://t.freetv.fun/live/qing-hai-wei-shi-5.m3u8
 青海衛視,https://t.freetv.fun/live/qing-hai-wei-shi.php
 青海衛視,https://t.freetv.fun/live/qing-hai-wei-shi-1.m3u8
@@ -1276,6 +1593,17 @@ Lotus Macau China,https://t.freetv.fun/live/lotus-macau-720p.m3u8
 黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi.m3u8
 黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-10.php
 黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-1.php
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-9.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-11.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-4.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-7.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi.php
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-5.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-12.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-8.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-13.m3u8
+黑龍江衛視,https://t.freetv.fun/live/hei-long-jiang-wei-shi-14.m3u8
 Bethel,https://t.freetv.fun/live/bethel-tv.m3u8
 Bethel,https://t.freetv.fun/live/bethel-tv-1.m3u8
 Canal U,https://t.freetv.fun/live/canal-claro.m3u8
@@ -1311,6 +1639,7 @@ CETV,https://t.freetv.fun/live/cetv4-4.m3u8
 CETV,https://t.freetv.fun/live/cetv4-5.m3u8
 CETV,https://t.freetv.fun/live/cetv2-5.m3u8
 CETV,https://t.freetv.fun/live/cetv2-6.m3u8
+CETV,https://t.freetv.fun/live/cazetv.m3u8
 Unisport,https://t.freetv.fun/live/uzsport.m3u8
 Antena Latina Dominican Republic,https://t.freetv.fun/live/antena.m3u8
 Antena Latina Dominican Republic,https://t.freetv.fun/live/antena-1.m3u8
@@ -1454,6 +1783,7 @@ Trek,https://t.freetv.fun/live/star-trek.m3u8
 Trek,https://t.freetv.fun/live/star-trek-1.m3u8
 Trek,https://t.freetv.fun/live/star-trek-2.m3u8
 latele,https://t.freetv.fun/live/lale.m3u8
+latele,https://t.freetv.fun/live/latele.m3u8
 CANAL 3 EL SUPER CANAL,https://t.freetv.fun/live/super-canal.m3u8
 Formula TV,https://t.freetv.fun/live/formula-1.m3u8
 Formula TV,https://t.freetv.fun/live/fortuna-tv.m3u8
@@ -1537,6 +1867,11 @@ ASN HD,https://t.freetv.fun/live/awsn-1.m3u8
 Animax(HK),https://t.freetv.fun/live/animax-2.m3u8
 Animax(HK),https://t.freetv.fun/live/animax-tv.ts
 Animax(HK),https://t.freetv.fun/live/animax-28.m3u8
+Animax(HK),https://t.freetv.fun/live/cctv-8dian-shi-ju.m3u8
+Animax(HK),https://t.freetv.fun/live/cctv-5ti-yu.m3u8
+Animax(HK),https://t.freetv.fun/live/cctv-1zong-he-1.m3u8
+Animax(HK),https://t.freetv.fun/live/cctv-9ji-lu.m3u8
+Animax(HK),https://t.freetv.fun/live/cctv-12she-hui-yu-fa.m3u8
 C+頻道,https://t.freetv.fun/live/icc-plus.m3u8
 C+頻道,https://t.freetv.fun/live/c-plus.m3u8
 C+頻道,https://t.freetv.fun/live/society-plus.m3u8
@@ -1596,6 +1931,7 @@ TVB無線衛星新聞,https://t.freetv.fun/live/tvbwu-xian-xin-wen.php
 TVB華劇,https://t.freetv.fun/live/tvb-fei-cui-tai-sg.m3u8
 TVB黃金翡翠台,https://t.freetv.fun/live/tvbfei-cui.php
 TVB黃金翡翠台,https://t.freetv.fun/live/tvbfei-cui-1.php
+TVB黃金翡翠台,https://t.freetv.fun/live/tvbfei-cui-2.php
 ViuTV HD,https://t.freetv.fun/live/viutv.m3u8
 ViuTV HD,https://t.freetv.fun/live/viutv-1.m3u8
 ViuTV HD,https://t.freetv.fun/live/viutv-2.php
@@ -1607,6 +1943,7 @@ ViuTV HD,https://t.freetv.fun/live/viutv-plus.m3u8
 ViuTV HD,https://t.freetv.fun/live/viutv-b.m3u8
 ViuTV HD,https://t.freetv.fun/live/viutv-ee.php
 ViuTV HD,https://t.freetv.fun/live/viutv-28.php
+ViuTV HD,https://t.freetv.fun/live/viutv-3.php
 ViuTVsix,https://t.freetv.fun/live/viutvsix.m3u8
 ViuTVsix,https://t.freetv.fun/live/viutvsix-1.m3u8
 ViuTVsix,https://t.freetv.fun/live/viutvsix-b.m3u8
@@ -1618,10 +1955,14 @@ snaap!,https://t.freetv.fun/live/snap.m3u8
 劇集1臺,https://t.freetv.fun/live/ju-ji.flv
 港台电视 31,https://t.freetv.fun/live/gang-tai-dian-shi-31gao-qing.m3u8
 港台电视 31,https://t.freetv.fun/live/gang-tai-dian-shi-31.m3u8
+港台电视 31,https://t.freetv.fun/live/rthk-31.php
 港台电视 32,https://t.freetv.fun/live/gang-tai-dian-shi-32gao-qing.m3u8
+港台电视 32,https://t.freetv.fun/live/rthk-32.m3u8
+港台电视 32,https://t.freetv.fun/live/rthk-32-1.php
 无线新闻台,https://t.freetv.fun/live/wu-xian-xin-wen.m3u8
 无线新闻台,https://t.freetv.fun/live/wu-xian-xin-wen-1.m3u8
 无线新闻台,https://t.freetv.fun/live/wu-xian-xin-wen-1-1.m3u8
+无线新闻台,https://t.freetv.fun/live/wu-xian-xin-wen-1.php
 翡翠台,https://t.freetv.fun/live/fei-cui-tai.m3u8
 翡翠台,https://t.freetv.fun/live/fei-cui-1.m3u8
 翡翠台,https://t.freetv.fun/live/fei-cui-2.php
@@ -1643,9 +1984,16 @@ snaap!,https://t.freetv.fun/live/snap.m3u8
 鳳凰衛視中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
 鳳凰衛視中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.php
 鳳凰衛視中文,https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen.m3u8
+鳳凰衛視中文,https://t.freetv.fun/live/feng-huang-zhong-wen-4.m3u8
+鳳凰衛視中文,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
+鳳凰衛視中文,https://t.freetv.fun/live/feng-huang-zhong-wen-5.m3u8
+鳳凰衛視中文,https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen-1.m3u8
 鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-zi-xun-2.php
 鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-zi-xun-6.php
 鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-zi-xun.php
+鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-zi-xun-1.m3u8
+鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-wei-shi-zi-xun.m3u8
+鳳凰資訊HD,https://t.freetv.fun/live/feng-huang-wei-shi-zi-xun-1.m3u8
 Halom TV,https://t.freetv.fun/live/shalom-tv.m3u8
 Halom TV,https://t.freetv.fun/live/home-tv.m3u8
 Superone HD,https://t.freetv.fun/live/super-onze.m3u8
@@ -1952,6 +2300,7 @@ dTV(Japan),https://t.freetv.fun/live/dtv-1.m3u8
 Jordan TV,https://t.freetv.fun/live/jordan-tv.m3u8
 Noon TV,https://t.freetv.fun/live/noor-tv.m3u8
 Sana TV,https://t.freetv.fun/live/anand-tv.m3u8
+Sana TV,https://t.freetv.fun/live/anand-tv-1.m3u8
 Arirang TV,https://t.freetv.fun/live/arirang-tv.m3u8
 Arirang TV,https://t.freetv.fun/live/arirang-tv-un.m3u8
 Arirang TV,https://t.freetv.fun/live/arirang-2.m3u8
@@ -1996,6 +2345,7 @@ Inet TV,https://t.freetv.fun/live/tvr-int.m3u8
 K Plus,https://t.freetv.fun/live/ctvn-akd-plus.m3u8
 KBS World HD,https://t.freetv.fun/live/kbs-world.m3u8
 KBS World HD,https://t.freetv.fun/live/pbs-ket-world-480p.m3u8
+KBS World HD,https://t.freetv.fun/live/kbs-world-1.m3u8
 KIDS-TV,https://t.freetv.fun/live/looloo-kids-tv.m3u8
 KIDS-TV,https://t.freetv.fun/live/lego-kids-tv.m3u8
 KTV,https://t.freetv.fun/live/ktv.m3u8
@@ -2072,6 +2422,7 @@ news HD,https://t.freetv.fun/live/dd-news-1.m3u8
 news HD,https://t.freetv.fun/live/bm-c-news-1.m3u8
 news HD,https://t.freetv.fun/live/ktn-news.m3u8
 news HD,https://t.freetv.fun/live/dbc-news.m3u8
+news HD,https://t.freetv.fun/live/tnp-news.m3u8
 rasan tv,https://t.freetv.fun/live/pasand-tv.m3u8
 zarok tv hd,https://t.freetv.fun/live/zarok-tv-sorani.m3u8
 KTV 2,https://t.freetv.fun/live/ktv-2.m3u8
@@ -2219,6 +2570,7 @@ VTV,https://t.freetv.fun/live/rvtv-1.m3u8
 VTV,https://t.freetv.fun/live/vtv-1.m3u8
 5 Plus,https://t.freetv.fun/live/cctv-5-plus.m3u8
 5 Plus,https://t.freetv.fun/live/cctv-5-plus-1.m3u8
+5 Plus,https://t.freetv.fun/live/cctv-5-plus-2.m3u8
 24 Kitchen,https://t.freetv.fun/live/hell-s-kitchen.m3u8
 24 Kitchen,https://t.freetv.fun/live/hell-s-kitchen-1.m3u8
 24 Kitchen,https://t.freetv.fun/live/hell-s-kitchen-germany.m3u8
@@ -2338,6 +2690,7 @@ KURIOS TV,https://t.freetv.fun/live/kuriakos-tv-1.m3u8
 Kuriakos kids,https://t.freetv.fun/live/kuriakos-kids-1.m3u8
 MVM Portugal,https://t.freetv.fun/live/assim-e-portugal.m3u8
 Porto Canal,https://t.freetv.fun/live/porto-canal-1.m3u8
+Porto Canal,https://t.freetv.fun/live/canal-pro.m3u8
 RTP 1,https://t.freetv.fun/live/rtp-1-1.m3u8
 RTP 3 PT,https://t.freetv.fun/live/rtp-3-1.m3u8
 RTP 3 PT,https://t.freetv.fun/live/rtp-3-2.m3u8
@@ -2870,6 +3223,20 @@ CGTN(Spain),https://t.freetv.fun/live/cgtn-12.m3u8
 CGTN(Spain),https://t.freetv.fun/live/cgtnfa-yu-4.m3u8
 CGTN(Spain),https://t.freetv.fun/live/cgtn-13.m3u8
 CGTN(Spain),https://t.freetv.fun/live/cgtne-yu-5.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnji-lu-1-1.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnji-lu-2.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnji-lu-3.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnfa-yu-5.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnxin-wen.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnxin-wen-1.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnxin-wen-2.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnfa-yu-6.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnxin-wen-3.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtne-yu-6.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnfa-yu-7.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnji-lu-1-2.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnxin-wen-4.m3u8
+CGTN(Spain),https://t.freetv.fun/live/cgtnxin-wen-5.m3u8
 Galicia TV,https://t.freetv.fun/live/tv-galicia.m3u8
 H&H,https://t.freetv.fun/live/tve-24-h-1.m3u8
 Mitele Deportes,https://t.freetv.fun/live/itv-deportes.m3u8
@@ -2885,6 +3252,7 @@ TVE,https://t.freetv.fun/live/tve-24h.m3u8
 TVE 24,https://t.freetv.fun/live/teve-2-1.m3u8
 TVE 24,https://t.freetv.fun/live/e-24.m3u8
 Tigo Music,https://t.freetv.fun/live/music-latino.m3u8
+Tigo Music,https://t.freetv.fun/live/music-latino-1.m3u8
 ITN SriLanka,https://t.freetv.fun/live/itn-1.m3u8
 S24 TV,https://t.freetv.fun/live/324-tv.m3u8
 TV4 Fakta Sweden,https://t.freetv.fun/live/tv4-360p.m3u8
@@ -2907,6 +3275,7 @@ BBC Earth(tw),https://t.freetv.fun/live/bbc-earth-us.m3u8
 BBC Earth(tw),https://t.freetv.fun/live/ch-ng-bbc-earth.m3u8
 BBC Earth(tw),https://t.freetv.fun/live/sony-bbc-earth.m3u8
 BBC Earth(tw),https://t.freetv.fun/live/bbc-earth-2.m3u8
+BBC Earth(tw),https://t.freetv.fun/live/bbc-earth-3.m3u8
 BBC Lifestyle(TW),https://t.freetv.fun/live/bbc-lifestyle.m3u8
 BBC Lifestyle(TW),https://t.freetv.fun/live/bbc-lifestyle-asia.m3u8
 BBC Lifestyle(TW),https://t.freetv.fun/live/bbc-lifestyle-1.m3u8
@@ -3077,6 +3446,7 @@ rollor,https://t.freetv.fun/live/gun-dong-li-rollor-5.m3u8
 台視HD,https://t.freetv.fun/live/tai-shi-3.php
 台視HD,https://t.freetv.fun/live/tai-shi-5.php
 台視HD,https://t.freetv.fun/live/tai-shi-28.ts
+台視HD,https://t.freetv.fun/live/tai-shi-3.m3u8
 台視新聞FHD,https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
 台視新聞FHD,https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
 台視新聞FHD,https://t.freetv.fun/live/tai-shi-xin-wen-2.php
@@ -3125,6 +3495,7 @@ rollor,https://t.freetv.fun/live/gun-dong-li-rollor-5.m3u8
 民視HD,https://t.freetv.fun/live/min-shi-1.ts
 民視HD,https://t.freetv.fun/live/min-shi-2-1.php
 民視HD,https://t.freetv.fun/live/min-shi-28.m3u8
+民視HD,https://t.freetv.fun/live/min-shi-3.m3u8
 民視新聞 HD,https://t.freetv.fun/live/min-shi-xin-wen-3.m3u8
 民視新聞 HD,https://t.freetv.fun/live/min-shi-xin-wen-2.m3u8
 民視新聞HD,https://t.freetv.fun/live/min-shi-xin-wen.m3u8
@@ -3152,6 +3523,8 @@ rollor,https://t.freetv.fun/live/gun-dong-li-rollor-5.m3u8
 經典電影臺,https://t.freetv.fun/live/jing-dian-dian-ying.m3u8
 經典電影臺,https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying-2.m3u8
 經典電影臺,https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying-3.m3u8
+經典電影臺,https://t.freetv.fun/live/jing-dian-dian-ying-1.m3u8
+經典電影臺,https://t.freetv.fun/live/jing-dian-dian-ying-2.m3u8
 緯來戲劇,https://t.freetv.fun/live/wei-lai-xi-ju-ee.php
 緯來戲劇,https://t.freetv.fun/live/wei-lai-xi-ju.m3u8
 緯來日本,https://t.freetv.fun/live/wei-lai-ri-ben-ee.php
@@ -3227,6 +3600,16 @@ TCCTV-2,https://t.freetv.fun/live/cctv-2gao-qing.m3u8
 TCCTV-2,https://t.freetv.fun/live/cctv-2hd.m3u8
 TCCTV-2,https://t.freetv.fun/live/cctv-02-2.php
 TCCTV-2,https://t.freetv.fun/live/cctv-2hd-1.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-2.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-02.php
+TCCTV-2,https://t.freetv.fun/live/cctv-2-1.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-2cai-jing.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-2cai-jing-1.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-2cai-jing-3.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-2cai-jing-4.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-2cai-jing-5.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-2cai-jing-6.m3u8
+TCCTV-2,https://t.freetv.fun/live/cctv-2cai-jing-7.m3u8
 THAI TV,https://t.freetv.fun/live/lao-thai-tv.m3u8
 THAI TV,https://t.freetv.fun/live/habib-tv.m3u8
 TV 3 HD,https://t.freetv.fun/live/dltv-3-1080p.m3u8
@@ -3264,6 +3647,7 @@ Kral Pop Music Türkiye,https://t.freetv.fun/live/kral-kral-pop-1.m3u8
 Kral Pop Music Türkiye,https://t.freetv.fun/live/pop-1.m3u8
 Kral Pop Music Türkiye,https://t.freetv.fun/live/pop-2.m3u8
 Kral Pop Music Türkiye,https://t.freetv.fun/live/pop-3.m3u8
+Kral Pop Music Türkiye,https://t.freetv.fun/live/music-pop.m3u8
 MinikaÇOCUK,https://t.freetv.fun/live/minika-cocuk-1.m3u8
 STV,https://t.freetv.fun/live/stv.m3u8
 STV,https://t.freetv.fun/live/stv-1.m3u8
@@ -3442,6 +3826,7 @@ Sky Classics,https://t.freetv.fun/live/british-screen-classics.m3u8
 Sky Classics,https://t.freetv.fun/live/super-kids-classics.m3u8
 Sky Classics,https://t.freetv.fun/live/top-rank-classics-2.m3u8
 Sky Classics,https://t.freetv.fun/live/top-rank-classics-3.m3u8
+Sky Classics,https://t.freetv.fun/live/music-classics-1.m3u8
 Sky Movies Drama & Romance HD UK,https://t.freetv.fun/live/romance.m3u8
 Sky Movies Thriller HD  (UK),https://t.freetv.fun/live/movies-thriller.m3u8
 Sky Nature,https://t.freetv.fun/live/pbs-nature.m3u8
@@ -3673,6 +4058,7 @@ FightBox TV,https://t.freetv.fun/live/fightbox.m3u8
 FightBox TV,https://t.freetv.fun/live/fightbox-1.m3u8
 Fox Business,https://t.freetv.fun/live/fox-business-network.m3u8
 Fox Kids,https://t.freetv.fun/live/kids-flix.m3u8
+Fox Kids,https://t.freetv.fun/live/box-kids.m3u8
 Fox News,https://t.freetv.fun/live/fox-news.m3u8
 Fox News,https://t.freetv.fun/live/fox-news-1.m3u8
 Fox News Channel,https://t.freetv.fun/live/fox-news-channel.m3u8
@@ -3727,6 +4113,7 @@ InfoWars,https://t.freetv.fun/live/ch-ng-infowars.m3u8
 Investigation Discovery,https://t.freetv.fun/live/investigation.m3u8
 Investigation Discovery,https://t.freetv.fun/live/investigation-1.m3u8
 KAYU TV,https://t.freetv.fun/live/kajou-tv.m3u8
+KAYU TV,https://t.freetv.fun/live/kalu-tv.m3u8
 KCBS Los Angeles,https://t.freetv.fun/live/los-angeles.m3u8
 Kiro 7,https://t.freetv.fun/live/kiro-seattle.m3u8
 LIFESTYLE TV,https://t.freetv.fun/live/biznet-lifestyle.m3u8
@@ -4107,6 +4494,8 @@ CHCå®¶åº­å½±é¢,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/22
 æ¹åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8
 æ¹åå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/index.m3u8
 æ¹åå«è§,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+æ¹åå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225919/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+æ¹åå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225719/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ±èå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/42329921.smil/index.m3u8?fmt=ts2hls
 æ±èå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8?servicetype=1
 æ±èå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1
@@ -4116,6 +4505,8 @@ CHCå®¶åº­å½±é¢,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/22
 æ±èå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8
 æ±èå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/index.m3u8
 æ±èå«è§,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+æ±èå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221226025/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+æ±èå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225722/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ä¸æ¹å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228354/42329929.smil/index.m3u8?fmt=ts2hls
 ä¸æ¹å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1
 ä¸æ¹å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1
@@ -4125,6 +4516,8 @@ CHCå®¶åº­å½±é¢,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/22
 ä¸æ¹å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8
 ä¸æ¹å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226106/index.m3u8
 ä¸æ¹å«è§,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+ä¸æ¹å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225942/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸æ¹å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225718/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åäº¬å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/42329925.smil/index.m3u8?fmt=ts2hls
 åäº¬å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1
 åäº¬å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1
@@ -4134,6 +4527,8 @@ CHCå®¶åº­å½±é¢,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/22
 åäº¬å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8
 åäº¬å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/index.m3u8
 åäº¬å«è§,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+åäº¬å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225889/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+åäº¬å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225651/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æµæ±å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42329891.smil/index.m3u8?fmt=ts2hls
 æµæ±å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?servicetype=1
 æµæ±å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1
@@ -4143,6 +4538,8 @@ CHCå®¶åº­å½±é¢,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/22
 æµæ±å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8
 æµæ±å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225727/index.m3u8
 æµæ±å«è§,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+æµæ±å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225928/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+æµæ±å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225731/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ç¬¬ä¸è´¢ç»,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
 ç¬¬ä¸è´¢ç»,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/index.m3u8
 CGTNæ³è¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305586/main.m3u8?stbid=
@@ -4158,6 +4555,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 æ·±å³å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8
 æ·±å³å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225728/index.m3u8
 æ·±å³å«è§,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+æ·±å³å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225951/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+æ·±å³å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225725/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ¹åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/42329887.smil/index.m3u8?fmt=ts2hls
 æ¹åå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225954/index.m3u8?servicetype=1
 æ¹åå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1
@@ -4167,6 +4566,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 æ¹åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8
 æ¹åå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225729/index.m3u8
 æ¹åå«è§,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+æ¹åå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225954/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+æ¹åå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225721/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å¹¿ä¸å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/42329945.smil/index.m3u8?fmt=ts2hls
 å¹¿ä¸å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225913/index.m3u8?servicetype=1
 å¹¿ä¸å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1
@@ -4176,6 +4577,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å¹¿ä¸å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8
 å¹¿ä¸å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225731/index.m3u8
 å¹¿ä¸å«è§,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+å¹¿ä¸å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225913/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+å¹¿ä¸å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å¹¿è¥¿å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292/235855143.smil/index.m3u8?fmt=ts2hls
 å¹¿è¥¿å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
 å¹¿è¥¿å«è§,http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
@@ -4183,6 +4586,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å¹¿è¥¿å«è§,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8
 å¹¿è¥¿å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8
 å¹¿è¥¿å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226084/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/index.m3u8
+å¹¿è¥¿å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221226374/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 é»é¾æ±å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302/42329917.smil/index.m3u8?fmt=ts2hls
 é»é¾æ±å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8?servicetype=1
 é»é¾æ±å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1
@@ -4192,6 +4596,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 é»é¾æ±å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236226/index.m3u8
 é»é¾æ±å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225722/index.m3u8
 é»é¾æ±å«è§,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+é»é¾æ±å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221226019/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+é»é¾æ±å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225734/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æµ·åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687/376173485.smil/index.m3u8?fmt=ts2hls
 æµ·åå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1
 æµ·åå«è§,http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
@@ -4199,6 +4605,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 æµ·åå«è§,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
 æµ·åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/index.m3u8
 æµ·åå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/index.m3u8
+æµ·åå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225752/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 éåºå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232642/341733166.smil/index.m3u8?fmt=ts2hls
 éåºå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225898/index.m3u8?servicetype=1
 éåºå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1
@@ -4208,6 +4615,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 éåºå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236292/index.m3u8
 éåºå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/index.m3u8
 éåºå«è§,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+éåºå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225898/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+éåºå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åå·å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231298/236035585.smil/index.m3u8?fmt=ts2hls
 åå·å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1
 åå·å«è§,http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
@@ -4216,6 +4625,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 åå·å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8
 åå·å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226152/index.m3u8
 åå·å«è§,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+åå·å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225757/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ²³åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264/235855023.smil/index.m3u8?fmt=ts2hls
 æ²³åå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1
 æ²³åå«è§,http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
@@ -4224,6 +4634,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 æ²³åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236218/index.m3u8
 æ²³åå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226132/index.m3u8
 æ²³åå«è§,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+æ²³åå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225806/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 è´µå·å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267/235855087.smil/index.m3u8?fmt=ts2hls
 è´µå·å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1
 è´µå·å«è§,http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
@@ -4232,6 +4643,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 è´µå·å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8
 è´µå·å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/index.m3u8
 è´µå·å«è§,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+è´µå·å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225770/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ±è¥¿å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228293/42329843.smil/index.m3u8?fmt=ts2hls
 æ±è¥¿å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1
 æ±è¥¿å«è§,http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
@@ -4240,6 +4652,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 æ±è¥¿å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/index.m3u8
 æ±è¥¿å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225740/index.m3u8
 æ±è¥¿å«è§,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+æ±è¥¿å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225957/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 è¾½å®å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228317/42329987.smil/index.m3u8?fmt=ts2hls
 è¾½å®å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226007/index.m3u8?servicetype=1
 è¾½å®å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1
@@ -4249,6 +4662,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 è¾½å®å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8
 è¾½å®å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/index.m3u8
 è¾½å®å«è§,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+è¾½å®å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221226007/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+è¾½å®å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225779/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å®å¾½å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/42329873.smil/index.m3u8?fmt=ts2hls
 å®å¾½å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8?servicetype=1
 å®å¾½å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1
@@ -4258,6 +4673,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å®å¾½å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8
 å®å¾½å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225739/index.m3u8
 å®å¾½å«è§,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+å®å¾½å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225886/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+å®å¾½å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225701/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ²³åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231270/235855194.smil/index.m3u8?fmt=ts2hls
 æ²³åå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1
 æ²³åå«è§,http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
@@ -4266,6 +4683,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 æ²³åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8
 æ²³åå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226107/index.m3u8
 æ²³åå«è§,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+æ²³åå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225773/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å±±ä¸å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/42329957.smil/index.m3u8?fmt=ts2hls
 å±±ä¸å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226010/index.m3u8?servicetype=1
 å±±ä¸å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1
@@ -4275,6 +4693,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å±±ä¸å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8
 å±±ä¸å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225733/index.m3u8
 å±±ä¸å«è§,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+å±±ä¸å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221226010/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+å±±ä¸å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225672/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å¤©æ´¥å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228320/42329956.smil/index.m3u8?fmt=ts2hls
 å¤©æ´¥å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226022/index.m3u8?servicetype=1
 å¤©æ´¥å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1
@@ -4284,6 +4704,8 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å¤©æ´¥å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8
 å¤©æ´¥å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/index.m3u8
 å¤©æ´¥å«è§,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+å¤©æ´¥å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221226022/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+å¤©æ´¥å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225675/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åæå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231289/235855024.smil/index.m3u8?fmt=ts2hls
 åæå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226389/index.m3u8?servicetype=1
 åæå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1
@@ -4293,6 +4715,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 åæå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236268/index.m3u8
 åæå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226082/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226149/index.m3u8
 åæå«è§,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+åæå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225678/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 éè¥¿å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228272/42329208.smil/index.m3u8?fmt=ts2hls
 éè¥¿å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226400/index.m3u8?servicetype=1
 éè¥¿å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
@@ -4303,6 +4726,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 éè¥¿å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8
 éè¥¿å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226086/index.m3u8
 éè¥¿å«è§,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+éè¥¿å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225754/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å®å¤å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228284/42329159.smil/index.m3u8?fmt=ts2hls
 å®å¤å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226413/index.m3u8?servicetype=1
 å®å¤å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1
@@ -4311,6 +4735,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å®å¤å«è§,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8
 å®å¤å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236209/index.m3u8
 å®å¤å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226092/index.m3u8
+å®å¤å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225782/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åèå¤å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339/42329883.smil/index.m3u8?fmt=ts2hls
 åèå¤å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226429/index.m3u8?servicetype=1
 åèå¤å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1
@@ -4321,6 +4746,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 åèå¤å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236270/index.m3u8
 åèå¤å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226011/index.m3u8
 åèå¤å«è§,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+åèå¤å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225751/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 äºåå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232675/372759824.smil/index.m3u8?fmt=ts2hls
 äºåå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1
 äºåå«è§,http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
@@ -4329,6 +4755,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 äºåå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8
 äºåå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226109/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226151/index.m3u8
 äºåå«è§,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+äºåå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225794/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å±±è¥¿å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228291/42329192.smil/index.m3u8?fmt=ts2hls
 å±±è¥¿å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226398/index.m3u8?servicetype=1
 å±±è¥¿å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1
@@ -4338,6 +4765,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å±±è¥¿å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236264/index.m3u8
 å±±è¥¿å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/index.m3u8
 å±±è¥¿å«è§,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+å±±è¥¿å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225785/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 éæµ·å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/42329203.smil/index.m3u8?fmt=ts2hls
 éæµ·å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
 éæµ·å«è§,http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
@@ -4347,6 +4775,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 éæµ·å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8
 éæµ·å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/index.m3u8
 éæµ·å«è§,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+éæµ·å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225705/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 çèå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236626/1056652255.smil/index.m3u8?fmt=ts2hls
 çèå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1
 çèå«è§,http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
@@ -4354,6 +4783,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 çèå«è§,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8
 çèå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8
 çèå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226090/index.m3u8
+çèå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225764/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 è¥¿èå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/42330007.smil/index.m3u8?fmt=ts2hls
 è¥¿èå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226416/index.m3u8?servicetype=1
 è¥¿èå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
@@ -4363,6 +4793,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 è¥¿èå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236274/index.m3u8
 è¥¿èå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226012/index.m3u8
 è¥¿èå«è§,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+è¥¿èå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225800/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ°çå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228326/42329879.smil/index.m3u8?fmt=ts2hls
 æ°çå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8?servicetype=1
 æ°çå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
@@ -4372,6 +4803,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 æ°çå«è§,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8
 æ°çå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236215/index.m3u8
 æ°çå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226088/index.m3u8
+æ°çå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225788/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åµå¢å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228419/44198443.smil/index.m3u8?fmt=ts2hls
 åµå¢å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226423/index.m3u8?servicetype=1
 åµå¢å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1
@@ -4384,6 +4816,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å¤§æ¹¾åºå«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
 å¤§æ¹¾åºå«è§,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182538/main.m3u8?stbid=
 å¤§æ¹¾åºå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8
+å¤§æ¹¾åºå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å»¶è¾¹å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226273/index.m3u8?servicetype=1
 å»¶è¾¹å«è§,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023031709181220216556910725802/main.m3u8?stbid=
 å»¶è¾¹å«è§,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8
@@ -4421,9 +4854,11 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 ä¸åå«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8
 ä¸åå«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225745/index.m3u8
 ä¸åå«è§,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+ä¸åå«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225904/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ´å½©ç«æ,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/index.m3u8
 çå½©éå°,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
 çå½©éå°,http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+çå½©éå°,http://gxyd.484947.xyz/PLTV/77777777/224/3221226055/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 é£äºè¶³ç,http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
 é£äºè¶³ç,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/main.m3u8?stbid=
 ç¬¬ä¸å§åº,http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
@@ -4436,6 +4871,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 éé¹°çºªå®,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1
 éé¹°çºªå®,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182315/main.m3u8?stbid=
 éé¹°çºªå®,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
+éé¹°çºªå®,http://gxyd.484947.xyz/PLTV/77777777/224/3221225699/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å¡é·å°å¿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/42613213.smil/index.m3u8?fmt=ts2hls
 å¡é·å°å¿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226419/index.m3u8?servicetype=1
 å¡é·å°å¿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
@@ -4443,12 +4879,14 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å¡é·å°å¿,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8
 å¡é·å°å¿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/1/index.m3u8?fmt=ts2hls
 å¡é·å°å¿,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+å¡é·å°å¿,http://gxyd.484947.xyz/PLTV/77777777/224/3221225730/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 éé¹°å¡é,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/42613591.smil/index.m3u8?fmt=ts2hls
 éé¹°å¡é,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
 éé¹°å¡é,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182316/main.m3u8?stbid=
 éé¹°å¡é,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
 éé¹°å¡é,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/1/index.m3u8?fmt=ts2hls
 éé¹°å¡é,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/index.m3u8
+éé¹°å¡é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225702/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å¤å°ä¸­æ,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 å¤å°èµè®¯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 éæ¸©ç»å¸,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/849829896.smil/index.m3u8?fmt=ts2hls
@@ -4475,11 +4913,13 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 åä½³å¡é,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381025/main.m3u8?stbid=
 åä½³å¡é,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8
 åä½³å¡é,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228593/1/index.m3u8?fmt=ts2hls
+åä½³å¡é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225797/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å¹¿è¥¿æ°é»,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1
 å¹¿è¥¿å½±è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8?servicetype=1
 å¹¿è¥¿é½å¸,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
 åå®å¬å±,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
 åäº¬çºªå®,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1
+åäº¬çºªå®,http://gxyd.484947.xyz/PLTV/77777777/224/3221225995/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ°é»ç»¼å,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/index.m3u8
 ä¸æµ·é½å¸,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
 ä¸æ¹å½±è§,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
@@ -4502,11 +4942,13 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 å®¶åº­å§åº,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8
 å®¶åº­å§åº,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1
 å®¶åº­å§åº,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+å®¶åº­å§åº,http://gxyd.484947.xyz/PLTV/77777777/224/3221225743/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 çµå½±,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
 çµå½±,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 å¨ä½çµå½±,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
 å¨ä½çµå½±,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1
 å¨ä½çµå½±,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?stbid=
+å¨ä½çµå½±,http://gxyd.484947.xyz/PLTV/77777777/224/3221225703/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ååç«å¨,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236296/index.m3u8
 ååç«å¨,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225560/index.m3u8?fmt=ts2hls
 ååç«å¨,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182497/main.m3u8?stbid=
@@ -4540,6 +4982,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 è´¢å¯å¤©ä¸,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8
 å±±ä¸æè²,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1
 å±±ä¸æè²,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007227/main.m3u8?stbid=
+å±±ä¸æè²,http://gxyd.484947.xyz/PLTV/77777777/224/3221225708/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ°å¨æ¼«,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226322/index.m3u8?fmt=ts2hls
 æ°å¨æ¼«,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/main.m3u8?stbid=
 ä¸­åç¹äº§,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226317/index.m3u8?fmt=ts2hls
@@ -4555,6 +4998,7 @@ CGTNè¥¿ç­çè¯­,http://tvgslb.hn.chinamobile.com:8089/180000001002/
 ä¼æ¼«å¡é,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 ä¼æ¼«å¡é,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182321/main.m3u8?stbid=
 ä¼æ¼«å¡é,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/1/index.m3u8?fmt=ts2hls
+ä¼æ¼«å¡é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225791/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å¨ä½çµå½±|é£æ¬ç´æ­,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1
 å¹¿ä¸å«è§é«æ¸,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226167/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226686/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226743/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227318/index.m3u8
 å¹¿ä¸å«è§é«æ¸,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
@@ -4640,6 +5084,7 @@ CGTNè±è¯­,http://iptvrr.sh.chinamobile.com:6060/cms001/ch0000009099000000
 çå½©ç¯®ç,http://ott.mobaibox.com/PLTV/4/224/3221228234/index.m3u8
 çå½©ç¯®ç,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/index.m3u8
 çå½©ç¯®ç,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+çå½©ç¯®ç,http://gxyd.484947.xyz/PLTV/77777777/224/3221225961/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åäº¬å«è§4Kè¶é«æ¸,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/index.m3u8?fmt=ts2hls
 ç¯çå¥è§,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226378/index.m3u8?fmt=ts2hls
 ç¯çå¥è§,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023061416181029613614091027931/main.m3u8?stbid=
@@ -4652,11 +5097,13 @@ CGTNè®°å½,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV
 å¤è£å§åº,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8
 å¤è£å§åº,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1
 å¤è£å§åº,http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+å¤è£å§åº,http://gxyd.484947.xyz/PLTV/77777777/224/3221225706/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å®¶åº­å½±é¢,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?stbid=
 åº·å·´å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226270/index.m3u8?servicetype=1
 åº·å·´å«è§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236185/index.m3u8
 åº·å·´å«è§,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/index.m3u8
 åº·å·´å«è§,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+åº·å·´å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221226270/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å®å¤å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226271/index.m3u8?servicetype=1
 æ±½æ©é¢é,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
 èé²¨ç¯çç²¾é,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
@@ -4691,19 +5138,23 @@ CGTN-æ³è¯­,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212
 çå½©ç«æ,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1
 çå½©ç«æ,http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
 çå½©ç«æ,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+çå½©ç«æ,http://gxyd.484947.xyz/PLTV/77777777/224/3221225972/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 çå½©å¹¿åºè,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1
 çå½©å¹¿åºè,http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 çå½©å¹¿åºè,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8
 çå½©å¹¿åºè,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+çå½©å¹¿åºè,http://gxyd.484947.xyz/PLTV/77777777/224/3221226326/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ä¸­å½åå¤«,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8
 ä¸­å½åå¤«,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1
 ä¸­å½åå¤«,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
 ä¸­å½åå¤«,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+ä¸­å½åå¤«,http://gxyd.484947.xyz/PLTV/77777777/224/3221225690/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 Cable News Network,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 æ¬¢ä¹å§åº,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/index.m3u8
 åæå§åº,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8
 åæå§åº,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1
 åæå§åº,http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+åæå§åº,http://gxyd.484947.xyz/PLTV/77777777/224/3221225727/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åäº¬å«è§4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/index.m3u8?fmt=ts2hls
 åäº¬å«è§4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
 åäº¬å«è§4K,http://ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
@@ -4771,6 +5222,7 @@ CGTNé¿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235408/6
 ç²¾åä½è²,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
 ç²¾åä½è²,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 ç²¾åä½è²,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+ç²¾åä½è²,http://gxyd.484947.xyz/PLTV/77777777/224/3221225724/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ¢ç´¢çºªå®,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8?fmt=ts2hls
 Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/133380193.smil/index.m3u8?fmt=ts2hls
 Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
@@ -4782,35 +5234,46 @@ Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m
 ç²¾åå§åº,http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 ç²¾åç»¼å,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236153/index.m3u8
 ç²¾åç»¼å,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1
+ç²¾åç»¼å,http://gxyd.484947.xyz/PLTV/77777777/224/3221225733/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ç²¾åå¤§å§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8
 ç²¾åå¤§å§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1
 ç²¾åå¤§å§,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+ç²¾åå¤§å§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225737/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ç²¾åè®°å½,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/index.m3u8
 ç±æåå§,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8
 ç±æåå§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1
 ç±æåå§,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
 ç±æåå§,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+ç±æåå§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225698/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æææ¬ç,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
 æææ¬ç,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1
+æææ¬ç,http://gxyd.484947.xyz/PLTV/77777777/224/3221225746/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ½®å¦è¾£å©,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8
 æ½®å¦è¾£å©,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
 æ½®å¦è¾£å©,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+æ½®å¦è¾£å©,http://gxyd.484947.xyz/PLTV/77777777/224/3221225709/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åäºè¯è®º,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8
 åäºè¯è®º,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1
+åäºè¯è®º,http://gxyd.484947.xyz/PLTV/77777777/224/3221225749/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 éçç»¼èº,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
 éçç»¼èº,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
 ç«èæªæ¥,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/index.m3u8
 ç«èæªæ¥,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
 ç«èæªæ¥,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+ç«èæªæ¥,http://gxyd.484947.xyz/PLTV/77777777/224/3221225973/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 åä¸è´å¯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236233/index.m3u8
 åä¸è´å¯,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1
+åä¸è´å¯,http://gxyd.484947.xyz/PLTV/77777777/224/3221225687/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ååµèµäº,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
 ååµèµäº,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225760/index.m3u8?servicetype=1
+ååµèµäº,http://gxyd.484947.xyz/PLTV/77777777/224/3221225760/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ¡ä¼´å¥åº·,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236220/index.m3u8
 æ¡ä¼´å¥åº·,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225684/index.m3u8?servicetype=1
+æ¡ä¼´å¥åº·,http://gxyd.484947.xyz/PLTV/77777777/224/3221225684/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 å°å¿å¨æ¼«,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/42613922.smil/index.m3u8?fmt=ts2hls
 é»èå¨ç»,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
 é»èå¨ç»,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1
+é»èå¨ç»,http://gxyd.484947.xyz/PLTV/77777777/224/3221225710/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 é£äºå§åº,http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
 é£äºå§åº,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/main.m3u8?stbid=
 é¿æ²æ¿æ³,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182540/main.m3u8?stbid=
@@ -4825,6 +5288,7 @@ Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m
 å¤å°èµè®¯å°,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
 çº¯äº«4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
 çº¯äº«4K,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+çº¯äº«4K,http://gxyd.484947.xyz/PLTV/77777777/224/3221225726/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 æ³å·æ°é»ç»¼å,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226304/index.m3u8?servicetype=1
 æ³å·ç§æ,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8?servicetype=1
 æ²³æ± æ°é»ç»¼å,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8?servicetype=1
@@ -4840,6 +5304,7 @@ Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m
 é¦å·æ°é»ç»¼å,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226306/index.m3u8?servicetype=1
 é¦å·å¬å±å½±è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226325/index.m3u8?servicetype=1
 ç æ±å«è§,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
+ç æ±å«è§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ä¸­å½æè²1,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1
 ä¸­å½æè²2,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225881/index.m3u8?servicetype=1
 ä¸­å½æè²4,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1
@@ -4847,11 +5312,15 @@ Y+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m
 é«å°å¤«ç½ç,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 é«å°å¤«ç½ç,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244801/main.m3u8?stbid=
 ç²¾åèå®,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225979/index.m3u8?servicetype=1
+ç²¾åèå®,http://gxyd.484947.xyz/PLTV/77777777/224/3221225979/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 é»èçµå½±,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1
 é»èçµå½±,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
 é»èçµå½±,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+é»èçµå½±,http://gxyd.484947.xyz/PLTV/77777777/224/3221225740/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ååµçµç«,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225880/index.m3u8?servicetype=1
+ååµçµç«,http://gxyd.484947.xyz/PLTV/77777777/224/3221225880/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ç­æ­ç²¾é,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1
+ç­æ­ç²¾é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225763/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 ç²¾åçºªå½,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1
 ææ¸¸å«è§,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
 æ±½æ©,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023061416165336644074033786493/main.m3u8?stbid=
@@ -5168,6 +5637,7 @@ NBTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/ind
 NBTV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/1/index.m3u8?fmt=ts2hls
 NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/index.m3u8?fmt=ts2hls
 èå±±æ°é»ç»¼å,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/1/index.m3u8?fmt=ts2hls
+ä¸­å½æè²-1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225776/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 é½å¸é½å¸,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/index.m3u8
 ä¸ç¥é,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225767/index.m3u8
 å¡éå¨ç»,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/index.m3u8
@@ -5251,6 +5721,10 @@ Canal Algerie,https://t.freetv.fun/live/tv2-canal-algerie.m3u8
 金鷹紀實,https://t.freetv.fun/live/jin-ying-ji-shi.m3u8
 金鷹紀實,https://t.freetv.fun/live/jin-ying-ji-shi-3.m3u8
 金鷹紀實,https://t.freetv.fun/live/jin-ying-ji-shi-2.m3u8
+金鷹紀實,https://t.freetv.fun/live/jin-ying-ji-shi-4.m3u8
+金鷹紀實,https://t.freetv.fun/live/jin-ying-ji-shi-5.m3u8
+金鷹紀實,https://t.freetv.fun/live/jin-ying-ji-shi-6.m3u8
+金鷹紀實,https://t.freetv.fun/live/jin-ying-ji-shi-7.m3u8
 SAB,https://t.freetv.fun/live/sab-tv.m3u8
 SAB,https://t.freetv.fun/live/sabz.m3u8
 Sirippoli TV india,https://t.freetv.fun/live/sirippoli-tv.m3u8
@@ -5332,6 +5806,7 @@ VOA Persian,https://t.freetv.fun/live/voa-persian-1.m3u8
 Canal Algerie,https://t.freetv.fun/live/tv2-canal-algerie.m3u8
 廣東公共,https://t.freetv.fun/live/yan-dong-gong-gong.m3u8
 星空衛視,https://t.freetv.fun/live/xing-kong-wei-shi.m3u8
+星空衛視,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
 Antena 3,https://t.freetv.fun/live/antena-sur.m3u8
 Antena 3,https://t.freetv.fun/live/antena-sur-1.m3u8
 Viasat History,https://t.freetv.fun/live/polsat-viasat-history.m3u8
@@ -5347,6 +5822,10 @@ Tom & Jerry TV 24Hours[geo-blocked],https://t.freetv.fun/live/tom-and-jerry.m3u8
 Cinema TV Senegal,https://t.freetv.fun/live/cinema-4.m3u8
 五星體育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
 五星體育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
+五星體育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
+五星體育,https://t.freetv.fun/live/wu-xing-ti-yu-4.m3u8
+五星體育,https://t.freetv.fun/live/wu-xing-ti-yu-5.m3u8
+五星體育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
 Canal Institucional,https://t.freetv.fun/live/canal-institucional.m3u8
 Señal Colombia,https://t.freetv.fun/live/senal-colombia.m3u8
 time quran AR,https://t.freetv.fun/live/quran.m3u8
@@ -5403,4 +5882,115 @@ MTV HD(Korea)[geo-blocked],https://t.freetv.fun/live/yo-mtv-1-1.m3u8
 MTV HD(Korea)[geo-blocked],https://t.freetv.fun/live/yo-mtv-2.m3u8
 ABC News Live[geo-blocked],https://t.freetv.fun/live/abc-news-live-3-1.m3u8
 NESN PLUS[geo-blocked],https://t.freetv.fun/live/nan-fang-wei-shi.m3u8
+NESN PLUS[geo-blocked],https://t.freetv.fun/live/nan-fang-wei-shi-1.m3u8
 UFC TV[geo-blocked],https://t.freetv.fun/live/ufc-4.m3u8
+#下載地址為https://freetv.fun/app
+#生成時間: 2026-04-02 03:00:02 UTC
+
+
+Cinema TV Senegal,https://t.freetv.fun/live/cinema-4.m3u8
+Band,https://t.freetv.fun/live/band-mg.m3u8
+BRTV卡酷少兒,https://t.freetv.fun/live/brtvqia-ku-shao-er.m3u8
+BRTV卡酷少兒,https://t.freetv.fun/live/brtvqia-ku-shao-er-1.m3u8
+BTV影視,https://t.freetv.fun/live/brtvying-shi-1.m3u8
+BTV文藝,https://t.freetv.fun/live/brtvwen-yi.m3u8
+BTV文藝,https://t.freetv.fun/live/brtvwen-yi-1.m3u8
+BTV新聞,https://t.freetv.fun/live/brtvxin-wen.m3u8
+BTV生活,https://t.freetv.fun/live/brtvsheng-huo.m3u8
+BTV生活,https://t.freetv.fun/live/brtvsheng-huo-1.m3u8
+BTV財經,https://t.freetv.fun/live/brtvcai-jing.m3u8
+BTV財經,https://t.freetv.fun/live/brtvcai-jing-1.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-1.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-2.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-3.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-4.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-5.m3u8
+NMTV 1,https://t.freetv.fun/live/nbtv-1.m3u8
+NMTV 2,https://t.freetv.fun/live/nbtv-2.m3u8
+上海新聞綜合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he.m3u8
+上海新聞綜合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-1.m3u8
+上海新聞綜合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-2.m3u8
+上海新聞綜合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-3.m3u8
+动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-3.m3u8
+动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-1.m3u8
+动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-2.m3u8
+动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-4.m3u8
+动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-5.m3u8
+南寧影視娛樂,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le.m3u8
+家庭影院4套,https://t.freetv.fun/live/jia-ting-ying-yuan.m3u8
+家庭影院4套,https://t.freetv.fun/live/jia-ting-ying-yuan-1.m3u8
+康巴衛視,https://t.freetv.fun/live/kang-ba-wei-shi.m3u8
+廣州影視,https://t.freetv.fun/live/yan-zhou-ying-shi.m3u8
+廣西移動,https://t.freetv.fun/live/yan-xi-yi-dong.m3u8
+東方影視,https://t.freetv.fun/live/dong-fang-ying-shi-1.m3u8
+東方影視,https://t.freetv.fun/live/dong-fang-ying-shi-2.m3u8
+東方影視,https://t.freetv.fun/live/dong-fang-ying-shi-3.m3u8
+東方影視,https://t.freetv.fun/live/dong-fang-ying-shi-4.m3u8
+柳州新聞綜合,https://t.freetv.fun/live/liu-zhou-xin-wen-zong-he.m3u8
+柳州生活科教,https://t.freetv.fun/live/liu-zhou-ke-jiao.m3u8
+永嘉新聞綜合,https://t.freetv.fun/live/zhe-jiang-yong-jia-xin-wen-zong-he.m3u8
+浙江少兒,https://t.freetv.fun/live/zhe-jiang-shao-er-1.m3u8
+玉林新聞綜合頻道,https://t.freetv.fun/live/gui-lin-xin-wen-zong-he.m3u8
+玉林新聞綜合頻道,https://t.freetv.fun/live/yu-lin-xin-wen-zong-he.m3u8
+珠海新聞綜合,https://t.freetv.fun/live/bei-hai-xin-wen-zong-he.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
+福建少兒,https://t.freetv.fun/live/fu-jian-shao-er-1.m3u8
+福建少兒,https://t.freetv.fun/live/fu-jian-shao-er.m3u8
+福建教育,https://t.freetv.fun/live/fu-jian-jiao-yu.m3u8
+福建教育,https://t.freetv.fun/live/fu-jian-jiao-yu-1.m3u8
+福建新聞,https://t.freetv.fun/live/fu-jian-xin-wen-1.m3u8
+福建新聞,https://t.freetv.fun/live/fu-jian-xin-wen.m3u8
+福建旅遊,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
+福建旅遊,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
+福建經濟生活,https://t.freetv.fun/live/fu-jian-sheng-huo.m3u8
+福建經濟生活,https://t.freetv.fun/live/fu-jian-sheng-huo-1.m3u8
+福建綜合,https://t.freetv.fun/live/fu-jian-zong-he-1.m3u8
+福建綜合,https://t.freetv.fun/live/fu-jian-zong-he.m3u8
+福建電視劇,https://t.freetv.fun/live/fu-jian-dian-shi-ju.m3u8
+福建電視劇,https://t.freetv.fun/live/fu-jian-dian-shi-ju-1.m3u8
+貴陽新聞綜合,https://t.freetv.fun/live/gui-gang-xin-wen-zong-he.m3u8
+足球频道,https://t.freetv.fun/live/zu-qiu-1.m3u8
+Alhayah 2 Gen,https://t.freetv.fun/live/gen.m3u8
+M6 Music Black,https://t.freetv.fun/live/music-black.m3u8
+M6 Music Hits,https://t.freetv.fun/live/music-hits.m3u8
+Telefuturo,https://t.freetv.fun/live/telefuturo.m3u8
+Telefuturo,https://t.freetv.fun/live/telefuturo-1.m3u8
+KIX[HK],https://t.freetv.fun/live/kix.m3u8
+中國環球電視網紀錄頻道,https://t.freetv.fun/live/rthk-34.php
+CGTN 英語頻道,https://t.freetv.fun/live/rthk-35.php
+TVB經典台,https://t.freetv.fun/live/tvbjing-dian-1.php
+戲曲臺,https://t.freetv.fun/live/xi-qu.m3u8
+戲曲臺,https://t.freetv.fun/live/xi-qu-1.m3u8
+Sun TV India,https://t.freetv.fun/live/sun-tv.m3u8
+aflam,https://t.freetv.fun/live/aflam.m3u8
+law tv,https://t.freetv.fun/live/latv-1.m3u8
+Hits Now,https://t.freetv.fun/live/hei-now.m3u8
+Unicanal,https://t.freetv.fun/live/unicanal.m3u8
+Trace Gospel,https://t.freetv.fun/live/trace-gospel.m3u8
+ELTA體育3(備用),https://t.freetv.fun/live/cctv-4k.m3u8
+TVBS News,https://t.freetv.fun/live/tvbsnew.m3u8
+BABY(SD),https://t.freetv.fun/live/tao-baby.m3u8
+CN HD,https://t.freetv.fun/live/cnt.m3u8
+California Music Channel[geo-blocked],https://t.freetv.fun/live/california-music-channel-1.m3u8
+A&E[geo-blocked],https://t.freetv.fun/live/ch-ng-a-e.m3u8
+BABY(SD)[geo-blocked],https://t.freetv.fun/live/tao-baby.m3u8
+ä¸­å½å½éçµè§å°æ°é»é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225816/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸­å½å½éçµè§å°çºªå½é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225707/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸­å½å½éçµè§å°è¥¿ç­çè¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225875/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸­å½å½éçµè§å°æ³è¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225878/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸­å½å½éçµè§å°é¿æä¼¯è¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225822/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸­å½å½éçµè§å°ä¿è¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225825/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+è¥¿èå«è§èè¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225828/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+å¦é¨å«è§æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225823/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+åµå¢å«è§æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225795/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+å»¶è¾¹å«è§æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221226273/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+å®å¤å«è§æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221226271/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸æ²å«è§(æ æ¸),http://gxyd.484947.xyz/PLTV/77777777/224/3221226405/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸­å½æè²2å¥æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225881/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ä¸­å½æè²4å¥,http://gxyd.484947.xyz/PLTV/77777777/224/3221225723/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+é«å°å¤«æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225884/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+è°æå¤§å§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225755/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+ç½çå§åº,http://gxyd.484947.xyz/PLTV/77777777/224/3221225681/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+更新日期: 2026-4-2 07:18:45,http://pull-hls-f11.douyincdn.com/media/stream-407352347386708652.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775687562&major_anchor_level=common&sign=8120b3fc3ed9fa2f1f7eb400c9168b9a&t_id=037-20260402063241C3EA67C26D88179B4B9E-V89dvG

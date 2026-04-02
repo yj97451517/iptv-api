@@ -3,7 +3,7 @@
 #freetv.fun does not provide or store any streaming media content.All channels are automatically collected from the network through crawlers, without any manual participation, just for testing purposes. Therefore, we do not guarantee the stability and legality of the channels, nor do we assume corresponding legal responsibilities. All legal responsibilities It should be the responsibility of the user and the source provider.
 #If you don't know how to use it, or don't have time to test it, you can download this recommended app for testing.
 #https://freetv.fun/app
-#Generated on: 2026-03-30 01:00:02 UTC
+#Generated on: 2026-04-02 03:00:02 UTC
 
 
 #這個檔案是由https://freetv.fun自動生成的,僅僅只是用於測試epg的準確性.
@@ -11,7 +11,7 @@
 #freetv.fun並不提供也不儲存任何的流媒體內容.所有的頻道都是由自動化系統通過網路自動收集而來,並沒有任何人工參與,僅僅只是為了測試.因此我們並不保證頻道的穩定性與合法性,我們也不承擔任何相關的法律責任.所有的法律責任與相關後果應由頻道的使用者與提供者自行承擔.
 #如果您不知道如何使用這個檔案,或者並沒有時間進行測試,那麼您可以下載我們推薦的APP來進行測試.
 #下載地址為https://freetv.fun/app
-#生成時間: 2026-03-30 01:00:02 UTC
+#生成時間: 2026-04-02 03:00:02 UTC
 
 
 Entertainment,#genre#
@@ -22,7 +22,7 @@ Bravo,https://t.freetv.fun/live/bravo-plus-1-1.m3u8
 Bravo,https://t.freetv.fun/live/bravo-vault-1.m3u8
 CLassica,https://t.freetv.fun/live/classica.m3u8
 CLassica,https://t.freetv.fun/live/classica-1.m3u8
-California Music Channel,https://t.freetv.fun/live/california-music-channel-1.m3u8
+California Music Channel[geo-blocked],https://t.freetv.fun/live/california-music-channel-1.m3u8
 California Music Channel,https://t.freetv.fun/live/ch-ng-california-music-channel.m3u8
 California Music Channel,https://t.freetv.fun/live/ch-ng-california-music-channel-1.m3u8
 DJING TV,https://t.freetv.fun/live/ning-tv.m3u8
@@ -87,9 +87,7 @@ Wild N Out,https://t.freetv.fun/live/wild-n-out-1.m3u8
 aMazing,https://t.freetv.fun/live/the-amazing-race.m3u8
 Generic,#genre#
 360 north,https://t.freetv.fun/live/beverly-hills-90210-2.m3u8
-A&E,https://t.freetv.fun/live/a-e.m3u8
-A&E,https://t.freetv.fun/live/ch-ng-a-e.m3u8
-CBC Television,https://t.freetv.fun/live/qatar-television-2.m3u8
+A&E[geo-blocked],https://t.freetv.fun/live/ch-ng-a-e.m3u8
 CBC Television,https://t.freetv.fun/live/long-beach-television.m3u8
 CBC Television,https://t.freetv.fun/live/cmb-television.m3u8
 CBC Television,https://t.freetv.fun/live/ignite-television.m3u8
@@ -135,19 +133,22 @@ American Dad,https://t.freetv.fun/live/american-crimes-1.m3u8
 American Dad,https://t.freetv.fun/live/american-stories.m3u8
 American Dad,https://t.freetv.fun/live/american-stories-1.m3u8
 American Dad,https://t.freetv.fun/live/american-crimes-2.m3u8
+BABY(SD)[geo-blocked],https://t.freetv.fun/live/tao-baby.m3u8
 Baby Shark TV,https://t.freetv.fun/live/baby-shark-tv.m3u8
 Baby Shark TV,https://t.freetv.fun/live/baby-shark-tv-1.m3u8
 Baby Shark TV,https://t.freetv.fun/live/baby-shark-tv-2.m3u8
 Baby Shark TV,https://t.freetv.fun/live/baby-shark-tv-720p.m3u8
 Baby Shark TV,https://t.freetv.fun/live/baby-shark-tv-3.m3u8
+CN HD,https://t.freetv.fun/live/cnt.m3u8
 Cartoon Network[geo-blocked],https://t.freetv.fun/live/cartoon-network.m3u8
 Cartoon Network,https://t.freetv.fun/live/cartoon-network-1.m3u8
 Cartoon Network,https://t.freetv.fun/live/arte-network.m3u8
-Cocoro TV[geo-blocked],https://t.freetv.fun/live/concord-tv.m3u8
-Cocoro TV[geo-blocked],https://t.freetv.fun/live/concord-tv-concord-ca-720p.m3u8
+Cocoro TV,https://t.freetv.fun/live/concord-tv.m3u8
+Cocoro TV,https://t.freetv.fun/live/concord-tv-concord-ca-720p.m3u8
 Disney Junior,https://t.freetv.fun/live/disney-junior-28.m3u8
 Disney XD,https://t.freetv.fun/live/disney-xd-28.m3u8
 Fox Kids,https://t.freetv.fun/live/kids-flix.m3u8
+Fox Kids,https://t.freetv.fun/live/box-kids.m3u8
 Futurama,https://t.freetv.fun/live/futura.m3u8
 Happy Kids TV,https://t.freetv.fun/live/happykids.m3u8
 Nick HD,https://t.freetv.fun/live/teen-nick.m3u8
@@ -168,12 +169,10 @@ The Cleveland Show,https://t.freetv.fun/live/show-1.m3u8
 Tom & Jerry TV 24Hours,https://t.freetv.fun/live/tom-and-jerry.m3u8
 Toon Goggles,https://t.freetv.fun/live/toon-google.m3u8
 Toon Goggles,https://t.freetv.fun/live/toongoggles.m3u8
-Tooncast,https://t.freetv.fun/live/tooncast.m3u8
 cartoons 4U[geo-blocked],https://t.freetv.fun/live/extrema-cartoons.m3u8
 Knowledge,#genre#
 Amazing Discoveries TV USA,https://t.freetv.fun/live/amazing-discoveries-tv-720p.m3u8
 Animal Planet,https://t.freetv.fun/live/animal-planet.m3u8
-Animal Planet,https://t.freetv.fun/live/animal-planet-1.m3u8
 Animal Planet,https://t.freetv.fun/live/animal-planet-2.m3u8
 Crime Investigation,https://t.freetv.fun/live/crime-plus-investigation.m3u8
 Crime Investigation,https://t.freetv.fun/live/crime-investigation.m3u8
@@ -181,9 +180,7 @@ Crime Investigation,https://t.freetv.fun/live/ch-ng-crime-plus-investigation.m3u
 Crime Investigation,https://t.freetv.fun/live/crime-plus-investigation-polsat.m3u8
 Crime Investion,https://t.freetv.fun/live/cozi-tv.m3u8
 Da Vinci,https://t.freetv.fun/live/da-vinci.m3u8
-Da Vinci,https://t.freetv.fun/live/da-vinci-1.m3u8
 Da Vinci,https://t.freetv.fun/live/da-vinci-2.m3u8
-History 2 HD,https://t.freetv.fun/live/history-2.m3u8
 History 2 HD,https://t.freetv.fun/live/history-2-1.m3u8
 History(USA),https://t.freetv.fun/live/viju-history.m3u8
 History(USA),https://t.freetv.fun/live/history.m3u8
@@ -217,7 +214,6 @@ Outdoor Channel HD,https://t.freetv.fun/live/outdoor-channel-1.m3u8
 Outdoor Channel HD,https://t.freetv.fun/live/outdoor-channel-2.m3u8
 Outdoor Channel HD,https://t.freetv.fun/live/ch-ng-outdoor-channel.m3u8
 TLC,https://t.freetv.fun/live/tlc.m3u8
-TLC,https://t.freetv.fun/live/tlc-1.m3u8
 Movies,#genre#
 AMC,https://t.freetv.fun/live/amc.m3u8
 AMC,https://t.freetv.fun/live/amc-1.m3u8
@@ -240,11 +236,11 @@ Dove Channel,https://t.freetv.fun/live/dove-channel-1.m3u8
 FX Asia,https://t.freetv.fun/live/fx-28.m3u8
 FXX,https://t.freetv.fun/live/fxx-28.m3u8
 HBO 2,https://t.freetv.fun/live/hbo-2-28.m3u8
-HBO 2 HD,https://t.freetv.fun/live/hbo-2-1.m3u8
+HBO 2 HD,https://t.freetv.fun/live/hbo-2.m3u8
 HBO Comedy,https://t.freetv.fun/live/bbc-comedy.m3u8
 HBO Family(USA)[geo-blocked],https://t.freetv.fun/live/hbo-family-ee.php
 HBO HD[geo-blocked],https://t.freetv.fun/live/hbo-hd-ee.php
-HBO HD USA,https://t.freetv.fun/live/hbo-tv.ts
+HBO HD USA[geo-blocked],https://t.freetv.fun/live/hbo-tv.ts
 HBO HITS[geo-blocked],https://t.freetv.fun/live/hbo-hits-ee.php
 HBO HITS(TW)[geo-blocked],https://t.freetv.fun/live/hbo-hits.m3u8
 HBO Signature HD[geo-blocked],https://t.freetv.fun/live/hbo-signature-ee.php
@@ -253,9 +249,7 @@ HBO USA,https://t.freetv.fun/live/hbo-28.m3u8
 HBO Zone,https://t.freetv.fun/live/hbo-zone-28.m3u8
 HBO(TW),https://t.freetv.fun/live/hbo.m3u8
 HBO(TW)[geo-blocked],https://t.freetv.fun/live/hbo-1.m3u8
-HBO(TW)[geo-blocked],https://t.freetv.fun/live/hbo-2.php
 Hallmark Movies,https://t.freetv.fun/live/hallmark-movies-mysteries-east.m3u8
-Hallmark Movies[geo-blocked],https://t.freetv.fun/live/hallo-movies.m3u8
 Hallmark Movies & More,https://t.freetv.fun/live/hallmark-movies-more-1.m3u8
 Hallmark Movies & More,https://t.freetv.fun/live/hallmark-movies-more-1.m3u8
 Hallmark Movies & More,https://t.freetv.fun/live/hallmark-movies-more-1-1.m3u8
@@ -285,10 +279,10 @@ The Movies,https://t.freetv.fun/live/t2-movies.m3u8
 The Movies,https://t.freetv.fun/live/the-movies.m3u8
 The Movies,https://t.freetv.fun/live/the-movies-28.m3u8
 UNIVERSAL HD,https://t.freetv.fun/live/universal-monsters.m3u8
-UNIVERSAL HD[geo-blocked],https://t.freetv.fun/live/universal-action.m3u8
+UNIVERSAL HD,https://t.freetv.fun/live/universal-action.m3u8
 UNIVERSAL HD,https://t.freetv.fun/live/universal-crime.m3u8
 UNIVERSAL HD,https://t.freetv.fun/live/universal-crime-1.m3u8
-UNIVERSAL HD[geo-blocked],https://t.freetv.fun/live/univer.m3u8
+UNIVERSAL HD,https://t.freetv.fun/live/univer.m3u8
 UNIVERSAL HD,https://t.freetv.fun/live/universal-crime-2.m3u8
 UNIVERSAL HD,https://t.freetv.fun/live/universal-action-1.m3u8
 UNIVERSAL HD,https://t.freetv.fun/live/universal-monsters-1.m3u8
@@ -300,8 +294,8 @@ MTV HD(Korea),https://t.freetv.fun/live/mtv-sub.m3u8
 MTV HD(Korea),https://t.freetv.fun/live/yo-mtv-1.m3u8
 MTV HD(Korea),https://t.freetv.fun/live/mtv.m3u8
 MTV HD(Korea),https://t.freetv.fun/live/yo-mtv-1.m3u8
-MTV HD(Korea)[geo-blocked],https://t.freetv.fun/live/yo-mtv-1-1.m3u8
-MTV HD(Korea)[geo-blocked],https://t.freetv.fun/live/yo-mtv-2.m3u8
+MTV HD(Korea),https://t.freetv.fun/live/yo-mtv-1-1.m3u8
+MTV HD(Korea),https://t.freetv.fun/live/yo-mtv-2.m3u8
 MTV Live HD,https://t.freetv.fun/live/htv-live.m3u8
 News,#genre#
 ABC 7,https://t.freetv.fun/live/abc.m3u8
@@ -341,7 +335,6 @@ Bloomberg 4K[geo-blocked],https://t.freetv.fun/live/bloomberg-originals-2.m3u8
 Bloomberg 4K[geo-blocked],https://t.freetv.fun/live/bloomberg-originals-3.m3u8
 Bloomberg 4K,https://t.freetv.fun/live/bloomberg-originals-5.m3u8
 Bloomberg TV,https://t.freetv.fun/live/bloomberg-tv.m3u8
-Bloomberg TV,https://t.freetv.fun/live/bloomberg-tv-1.m3u8
 Bloomberg TV,https://t.freetv.fun/live/bloomberg-tv-plus-2.m3u8
 Bloomberg TV,https://t.freetv.fun/live/bloomberg-tv-6.m3u8
 Bloomberg TV USA,https://t.freetv.fun/live/bloomberg-tv-australia-270p.m3u8
@@ -397,6 +390,7 @@ Fox News Channel,https://t.freetv.fun/live/fox-news-channel.m3u8
 Fox News Channel,https://t.freetv.fun/live/fox-news-channel-1.m3u8
 Fox Weather,https://t.freetv.fun/live/fox-weather-1.m3u8
 InfoWars,https://t.freetv.fun/live/ch-ng-infowars.m3u8
+KAYU TV,https://t.freetv.fun/live/kalu-tv.m3u8
 MS NOW,https://t.freetv.fun/live/msnbc-1.m3u8
 MS NOW,https://t.freetv.fun/live/msnbc-2.m3u8
 NBC Buffalo,https://t.freetv.fun/live/ch-ng-nbc-buffalo.m3u8
@@ -423,7 +417,6 @@ Ryan and Friends,https://t.freetv.fun/live/barbie-and-friends.m3u8
 Ryan and Friends[geo-blocked],https://t.freetv.fun/live/barney-and-friends.m3u8
 TBN Inspire,https://t.freetv.fun/live/tbn-inspire.m3u8
 TBN Inspire,https://t.freetv.fun/live/tbn-1.m3u8
-VOA Persian,https://t.freetv.fun/live/voa-persian.m3u8
 VOA Persian,https://t.freetv.fun/live/voa-persian-1.m3u8
 WNBC TV[geo-blocked],https://t.freetv.fun/live/wnbc-dt1.m3u8
 WNBC TV,https://t.freetv.fun/live/wnbc-dt1-1.m3u8
@@ -441,7 +434,7 @@ CATHOLIC TV,https://t.freetv.fun/live/catholic-tv.m3u8
 CBN,https://t.freetv.fun/live/tln-media-chicago.m3u8
 Christian Youth Channel CYC,https://t.freetv.fun/live/christian-youth-channel-1.m3u8
 LIFESTYLE TV,https://t.freetv.fun/live/biznet-lifestyle-1.m3u8
-LIFESTYLE TV,https://t.freetv.fun/live/fashion-lifestyle.m3u8
+LIFESTYLE TV[geo-blocked],https://t.freetv.fun/live/fashion-lifestyle.m3u8
 RETRO TV,https://t.freetv.fun/live/pluto-tv-retro-kid.m3u8
 TRAVEL,https://t.freetv.fun/live/travel-xp.m3u8
 TRAVEL,https://t.freetv.fun/live/urban-travel.m3u8
@@ -491,6 +484,7 @@ FOX SPORTS HD,https://t.freetv.fun/live/fox-sports-3.m3u8
 FOX SPORTS HD,https://t.freetv.fun/live/fox-sports-4.m3u8
 FOX SPORTS HD,https://t.freetv.fun/live/x-sports.m3u8
 FOX SPORTS HD,https://t.freetv.fun/live/fox-sports-5.m3u8
+FOX SPORTS HD,https://t.freetv.fun/live/fox-sports-6.m3u8
 FOX Sports 2,https://t.freetv.fun/live/fox-sports-2-1.m3u8
 FOX Sports 2,https://t.freetv.fun/live/fox-sports-2-2.m3u8
 FOX Sports 2,https://t.freetv.fun/live/ch-ng-fox-sports-2.m3u8
@@ -508,8 +502,8 @@ NBA TV HD,https://t.freetv.fun/live/nba-tv-2.m3u8
 NBA TV HD,https://t.freetv.fun/live/nba-tv-3.m3u8
 NBA TV HD,https://t.freetv.fun/live/ch-ng-nba-tv.m3u8
 NESN,https://t.freetv.fun/live/ch-ng-nesn.m3u8
-NESN PLUS[geo-blocked],https://t.freetv.fun/live/nan-fang-wei-shi.m3u8
-NESN PLUS,https://t.freetv.fun/live/nan-fang-wei-shi-1.m3u8
+NESN PLUS,https://t.freetv.fun/live/nan-fang-wei-shi.m3u8
+NESN PLUS[geo-blocked],https://t.freetv.fun/live/nan-fang-wei-shi-1.m3u8
 NFL REDZONE,https://t.freetv.fun/live/nfl-redzone.m3u8
 NHL Network,https://t.freetv.fun/live/nfl-network.m3u8
 NHL Network,https://t.freetv.fun/live/nhl-network.m3u8
@@ -541,7 +535,7 @@ UFC TV,https://t.freetv.fun/live/ufc.m3u8
 UFC TV,https://t.freetv.fun/live/ufc-1.m3u8
 UFC TV,https://t.freetv.fun/live/ufc-2.m3u8
 UFC TV,https://t.freetv.fun/live/ufc-3.m3u8
-UFC TV[geo-blocked],https://t.freetv.fun/live/ufc-4.m3u8
+UFC TV,https://t.freetv.fun/live/ufc-4.m3u8
 Unbeaten Esports,https://t.freetv.fun/live/unbeaten.m3u8
 Unbeaten Esports,https://t.freetv.fun/live/unbeaten-1.m3u8
 Unbeaten Esports,https://t.freetv.fun/live/unbeaten-2.m3u8

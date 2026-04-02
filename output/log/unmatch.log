@@ -1,183 +1,429 @@
 #https://freetv.fun/app
-#Generated on: 2026-03-30 01:00:02 UTC
+#Generated on: 2026-04-02 03:00:02 UTC
 
 
 #這個檔案是由https://freetv.fun自動生成的,僅僅只是用於測試epg的準確性.
 #下載地址為https://freetv.fun/app
-#生成時間: 2026-03-30 01:00:02 UTC
+#生成時間: 2026-04-02 03:00:02 UTC
 
 
 Cinema TV Senegal,https://t.freetv.fun/live/cinema-4.m3u8
-五星體育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
-五星體育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
-Canal Institucional,https://t.freetv.fun/live/canal-institucional.m3u8
-Señal Colombia,https://t.freetv.fun/live/senal-colombia.m3u8
-time quran AR,https://t.freetv.fun/live/quran.m3u8
-EuroNews Greece,https://t.freetv.fun/live/euronews-11.m3u8
-EuroNews Greece,https://t.freetv.fun/live/euronews-12.m3u8
-EuroNews Greece,https://t.freetv.fun/live/euronews-13.m3u8
-明珠,https://t.freetv.fun/live/ming-zhu-4.php
-明珠,https://t.freetv.fun/live/ming-zhu-tai-gao-qing.m3u8
-明珠臺(備),https://t.freetv.fun/live/ming-zhu.php
-明珠臺(備),https://t.freetv.fun/live/ming-zhu-5.php
-明珠臺(備),https://t.freetv.fun/live/ming-zhu-6.m3u8
-明珠臺(備),https://t.freetv.fun/live/ming-zhu-1.m3u8
-明珠臺(備),https://t.freetv.fun/live/ming-zhu-2.m3u8
-明珠臺(備),https://t.freetv.fun/live/ming-zhu-3.m3u8
-9XM Jalwa India,https://t.freetv.fun/live/9xm.m3u8
-Amouzesh TV Iran,https://t.freetv.fun/live/amouzesh.m3u8
-IRIB,https://t.freetv.fun/live/irib2.m3u8
-IRIB MOSTANAD,https://t.freetv.fun/live/mostanad.m3u8
-IRIB Pooya & Nahal,https://t.freetv.fun/live/pooya-nahal.m3u8
-Isfahan TV Iran,https://t.freetv.fun/live/isfahan.m3u8
-Varzesh TV Iran,https://t.freetv.fun/live/varzesh-tv.m3u8
-Gunma TV,https://t.freetv.fun/live/uma-tv.m3u8
-TvN Movies(MY),https://t.freetv.fun/live/tvn-movies-tt.m3u8
-yol tv hd,https://t.freetv.fun/live/sol-tv.m3u8
-yol tv hd,https://t.freetv.fun/live/sol-tv-1.m3u8
-MOLDOVA 1,https://t.freetv.fun/live/moldova-tv.m3u8
-Mongolia HD,https://t.freetv.fun/live/cnbc-mongolia.m3u8
-TVC Entertainment,https://t.freetv.fun/live/tvc-2.m3u8
-IIPC TV ENG,https://t.freetv.fun/live/iipc-tv.m3u8
-Ajyal TV Saudi,https://t.freetv.fun/live/ajyal-tv.m3u8
-CinemaWorld,https://t.freetv.fun/live/cinemaworld.m3u8
-HUBPREMIER EFL 1,https://t.freetv.fun/live/hub-premier-1-28.m3u8
-HUBPREMIER EFL 2,https://t.freetv.fun/live/hub-premier-2-28.m3u8
-SPOTV Stadia,https://t.freetv.fun/live/spotv-28.m3u8
-SPOTV2 Stadia,https://t.freetv.fun/live/spotv-2-28.m3u8
-AMC電影,https://t.freetv.fun/live/amcdian-ying.m3u8
-影迷數位電影臺,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.m3u8
-民視影劇臺,https://t.freetv.fun/live/min-shi-ying-ju.m3u8
-美亞電影台[TW],https://t.freetv.fun/live/mei-ya-dian-ying-28.php
-靖天電影,https://t.freetv.fun/live/jing-tian-dian-ying.m3u8
-靖洋戲劇,https://t.freetv.fun/live/jing-yang-xi-ju.m3u8
+Band,https://t.freetv.fun/live/band-mg.m3u8
+BRTV卡酷少兒,https://t.freetv.fun/live/brtvqia-ku-shao-er.m3u8
+BRTV卡酷少兒,https://t.freetv.fun/live/brtvqia-ku-shao-er-1.m3u8
+BTV影視,https://t.freetv.fun/live/brtvying-shi-1.m3u8
+BTV文藝,https://t.freetv.fun/live/brtvwen-yi.m3u8
+BTV文藝,https://t.freetv.fun/live/brtvwen-yi-1.m3u8
+BTV新聞,https://t.freetv.fun/live/brtvxin-wen.m3u8
+BTV生活,https://t.freetv.fun/live/brtvsheng-huo.m3u8
+BTV生活,https://t.freetv.fun/live/brtvsheng-huo-1.m3u8
+BTV財經,https://t.freetv.fun/live/brtvcai-jing.m3u8
+BTV財經,https://t.freetv.fun/live/brtvcai-jing-1.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-1.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-2.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-3.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-4.m3u8
+CCTV-戲曲,https://t.freetv.fun/live/cctv-11xi-qu-5.m3u8
+NMTV 1,https://t.freetv.fun/live/nbtv-1.m3u8
+NMTV 2,https://t.freetv.fun/live/nbtv-2.m3u8
+上海新聞綜合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he.m3u8
+上海新聞綜合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-1.m3u8
+上海新聞綜合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-2.m3u8
+上海新聞綜合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-3.m3u8
+內江科教生活,rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800
+動漫秀場,https://t.freetv.fun/live/dong-man-xiu-chang-3.m3u8
+動漫秀場,https://t.freetv.fun/live/dong-man-xiu-chang-1.m3u8
+動漫秀場,https://t.freetv.fun/live/dong-man-xiu-chang-2.m3u8
+動漫秀場,https://t.freetv.fun/live/dong-man-xiu-chang-4.m3u8
+動漫秀場,https://t.freetv.fun/live/dong-man-xiu-chang-5.m3u8
+南寧影視娛樂,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le.m3u8
+家庭影院4套,https://t.freetv.fun/live/jia-ting-ying-yuan.m3u8
+家庭影院4套,https://t.freetv.fun/live/jia-ting-ying-yuan-1.m3u8
+康巴衛視,https://t.freetv.fun/live/kang-ba-wei-shi.m3u8
+廣州影視,https://t.freetv.fun/live/yan-zhou-ying-shi.m3u8
+廣西移動,https://t.freetv.fun/live/yan-xi-yi-dong.m3u8
+東方影視,https://t.freetv.fun/live/dong-fang-ying-shi-1.m3u8
+東方影視,https://t.freetv.fun/live/dong-fang-ying-shi-2.m3u8
+東方影視,https://t.freetv.fun/live/dong-fang-ying-shi-3.m3u8
+東方影視,https://t.freetv.fun/live/dong-fang-ying-shi-4.m3u8
+柳州新聞綜合,https://t.freetv.fun/live/liu-zhou-xin-wen-zong-he.m3u8
+柳州生活科教,https://t.freetv.fun/live/liu-zhou-ke-jiao.m3u8
+永嘉新聞綜合,https://t.freetv.fun/live/zhe-jiang-yong-jia-xin-wen-zong-he.m3u8
+浙江少兒,https://t.freetv.fun/live/zhe-jiang-shao-er-1.m3u8
+玉林新聞綜合頻道,https://t.freetv.fun/live/gui-lin-xin-wen-zong-he.m3u8
+玉林新聞綜合頻道,https://t.freetv.fun/live/yu-lin-xin-wen-zong-he.m3u8
+珠海新聞綜合,https://t.freetv.fun/live/bei-hai-xin-wen-zong-he.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
+福建少兒,https://t.freetv.fun/live/fu-jian-shao-er-1.m3u8
+福建少兒,https://t.freetv.fun/live/fu-jian-shao-er.m3u8
+福建教育,https://t.freetv.fun/live/fu-jian-jiao-yu.m3u8
+福建教育,https://t.freetv.fun/live/fu-jian-jiao-yu-1.m3u8
+福建新聞,https://t.freetv.fun/live/fu-jian-xin-wen-1.m3u8
+福建新聞,https://t.freetv.fun/live/fu-jian-xin-wen.m3u8
+福建旅遊,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
+福建旅遊,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
+福建經濟生活,https://t.freetv.fun/live/fu-jian-sheng-huo.m3u8
+福建經濟生活,https://t.freetv.fun/live/fu-jian-sheng-huo-1.m3u8
+福建綜合,https://t.freetv.fun/live/fu-jian-zong-he-1.m3u8
+福建綜合,https://t.freetv.fun/live/fu-jian-zong-he.m3u8
+福建電視劇,https://t.freetv.fun/live/fu-jian-dian-shi-ju.m3u8
+福建電視劇,https://t.freetv.fun/live/fu-jian-dian-shi-ju-1.m3u8
+貴陽新聞綜合,https://t.freetv.fun/live/gui-gang-xin-wen-zong-he.m3u8
+足球频道,https://t.freetv.fun/live/zu-qiu-1.m3u8
+Alhayah 2 Gen,https://t.freetv.fun/live/gen.m3u8
+M6 Music Black,https://t.freetv.fun/live/music-black.m3u8
+M6 Music Hits,https://t.freetv.fun/live/music-hits.m3u8
+Telefuturo,https://t.freetv.fun/live/telefuturo.m3u8
+Telefuturo,https://t.freetv.fun/live/telefuturo-1.m3u8
+KIX[HK],https://t.freetv.fun/live/kix.m3u8
+RTHK34,https://t.freetv.fun/live/rthk-34.php
+RTHK35,https://t.freetv.fun/live/rthk-35.php
+TVB經典台,https://t.freetv.fun/live/tvbjing-dian-1.php
+戲曲臺,https://t.freetv.fun/live/xi-qu.m3u8
+戲曲臺,https://t.freetv.fun/live/xi-qu-1.m3u8
+Sun TV India,https://t.freetv.fun/live/sun-tv.m3u8
+aflam,https://t.freetv.fun/live/aflam.m3u8
+law tv,https://t.freetv.fun/live/latv-1.m3u8
+Hits Now,https://t.freetv.fun/live/hei-now.m3u8
+Unicanal,https://t.freetv.fun/live/unicanal.m3u8
+Trace Gospel,https://t.freetv.fun/live/trace-gospel.m3u8
+ELTA體育3(備用),https://t.freetv.fun/live/cctv-4k.m3u8
+TVBS News,https://t.freetv.fun/live/tvbsnew.m3u8
+BABY(SD),https://t.freetv.fun/live/tao-baby.m3u8
+CN HD,https://t.freetv.fun/live/cnt.m3u8
 #https://freetv.fun/app
-#Generated on: 2026-03-30 01:00:02 UTC
+#Generated on: 2026-04-02 03:00:02 UTC
 
 
 #這個檔案是由https://freetv.fun自動生成的,僅僅只是用於測試epg的準確性.
-Positiv TV,https://t.freetv.fun/live/positiv-tv.m3u8
-Cocoro TV[geo-blocked],https://t.freetv.fun/live/concord-tv.m3u8
-Cocoro TV[geo-blocked],https://t.freetv.fun/live/concord-tv-concord-ca-720p.m3u8
-Disney Junior,https://t.freetv.fun/live/disney-junior-28.m3u8
-Disney XD,https://t.freetv.fun/live/disney-xd-28.m3u8
-Nickelodeon,https://t.freetv.fun/live/nickelodeon-28.m3u8
-Court TV[geo-blocked],https://t.freetv.fun/live/ortb-tv-1.m3u8
-FX Asia,https://t.freetv.fun/live/fx-28.m3u8
-FXX,https://t.freetv.fun/live/fxx-28.m3u8
-HBO 2,https://t.freetv.fun/live/hbo-2-28.m3u8
-HBO USA,https://t.freetv.fun/live/hbo-28.m3u8
-HBO Zone,https://t.freetv.fun/live/hbo-zone-28.m3u8
-Hallmark Movies[geo-blocked],https://t.freetv.fun/live/hallo-movies.m3u8
-My Cinemaeurope,https://t.freetv.fun/live/my-cinema-europe.m3u8
-Starz Cinema,https://t.freetv.fun/live/starz-cinema-28.m3u8
-UNIVERSAL HD[geo-blocked],https://t.freetv.fun/live/universal-action.m3u8
-UNIVERSAL HD[geo-blocked],https://t.freetv.fun/live/univer.m3u8
-MTV HD(Korea)[geo-blocked],https://t.freetv.fun/live/yo-mtv-1-1.m3u8
-MTV HD(Korea)[geo-blocked],https://t.freetv.fun/live/yo-mtv-2.m3u8
-ABC News Live[geo-blocked],https://t.freetv.fun/live/abc-news-live-3-1.m3u8
-Disney Junior,https://t.freetv.fun/live/disney-junior-28.m3u8
-News 12 Brooklyn,https://t.freetv.fun/live/news12-brooklyn.m3u8
-Disney XD,https://t.freetv.fun/live/disney-xd-28.m3u8
-NESN PLUS[geo-blocked],https://t.freetv.fun/live/nan-fang-wei-shi.m3u8
-FX Asia,https://t.freetv.fun/live/fx-28.m3u8
-UFC TV[geo-blocked],https://t.freetv.fun/live/ufc-4.m3u8
-FXX,https://t.freetv.fun/live/fxx-28.m3u8
-HBO 2,https://t.freetv.fun/live/hbo-2-28.m3u8
-HBO USA,https://t.freetv.fun/live/hbo-28.m3u8
-HBO Zone,https://t.freetv.fun/live/hbo-zone-28.m3u8
-My Cinemaeurope,https://t.freetv.fun/live/my-cinema-europe.m3u8
-News 12 Brooklyn,https://t.freetv.fun/live/news12-brooklyn.m3u8
-Nickelodeon,https://t.freetv.fun/live/nickelodeon-28.m3u8
-Positiv TV,https://t.freetv.fun/live/positiv-tv.m3u8
-Starz Cinema,https://t.freetv.fun/live/starz-cinema-28.m3u8
-Sanaa TV (yemen),https://t.freetv.fun/live/salaam-tv-1.m3u8
-æµæºç»¼å,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-æµæºç»¼å,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-å°èç»¼å,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-å°èç»¼å,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-ä¼å·ç»¼å,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
-ä¼å·ç»¼å,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
-é¿å£ç»¼å,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
-é¿å£ç»¼å,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
-åé»ç»¼å,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-åé»ç»¼å,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-æ°å¿çµè§å°,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-æ°å¿çµè§å°,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
-æ°ä¹¡å¿ç»¼å,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-æ°ä¹¡å¿ç»¼å,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-èé¢ç»¼å,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-èé¢ç»¼å,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-æ·®æ»¨ç»¼å,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-æ·®æ»¨ç»¼å,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
-åå±±ç»¼å,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-åå±±ç»¼å,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
-æ»å¿TV1,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
-æ»å¿TV1,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
-æ»å¿TV2,http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
-æ»å¿TV2,http://live.dxhmt.cn:9081/tv/10526-2.m3u8
-æ¸ä¸°çµè§å°,http://tvpull.dxhmt.cn:9081/tv/10922-1.m3u8
-æ¸ä¸°çµè§å°,http://live.dxhmt.cn:9081/tv/10922-1.m3u8
-éè®¸ç»¼å,http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
-éè®¸ç»¼å,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
-æ¡ææ°é»ç»¼å,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
-æ¡ææ°é»ç»¼å,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
-å¤éç»¼å,http://tvpull.dxhmt.cn:9081/tv/11426-1.m3u8
-å¤éç»¼å,http://live.dxhmt.cn:9081/tv/11426-1.m3u8
-å¹³å´æ°é»ç»¼å,http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
-å¹³å´æ°é»ç»¼å,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
-åå¸æ°é»,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
-åå¸æ°é»,http://live.dxhmt.cn:9081/tv/10381-1.m3u8
-ä¸è¡çµè§å°,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-ä¸è¡çµè§å°,http://live.dxhmt.cn:9081/tv/10106-1.m3u8
-æ±é³æ°é»ç»¼å,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-æ±é³æ°é»ç»¼å,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
-ç½å±±çµè§å°,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
-ç½å±±çµè§å°,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-æ½¢å·çµè§å°,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-æ½¢å·çµè§å°,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
-ä¸è¡1,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-ä¸è¡1,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
-ç¡®å±±çµè§å°1,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
-è¥é³1,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
-è¥é³1,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
-æ¸©å¿èåª,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-æ¸©å¿èåª,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-å»ºå®æ°é»,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
-å»ºå®æ°é»,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-æå·çµè§å°,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
-æå·çµè§å°,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-é¢éµç»¼å,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-é¢éµç»¼å,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
-ç¤¾æçµè§å°,http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
-ç¤¾æçµè§å°,http://live.dxhmt.cn:9081/tv/11327-1.m3u8
-å­å·1,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
-å­å·1,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-éå¿ç»¼å,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
-éå¿ç»¼å,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
-æµå¿çµè§å°,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
-æµå¿çµè§å°,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-æ°é1,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
-æ°é1,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-æé¢ç»¼å,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-æé¢ç»¼å,http://live.dxhmt.cn:9081/tv/11122-1.m3u8
-å®ä¸°1,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
-å®ä¸°1,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
-åäº¬æè²,http://103.163.47.120:555/mg.php?id=838155716&token=MYTOKEN666888
-æ±èå¬å±æ°é»,http://103.163.47.120:555/mg.php?id=626064693&token=MYTOKEN666888
-ä½è²ä¼é²,http://103.163.47.120:555/mg.php?id=626064707&token=MYTOKEN666888
-åè¯­å¤§çå½±é¢,http://103.163.47.120:555/mg.php?id=619495952&token=MYTOKEN666888
-çç«01é«æ¸,http://103.163.47.120:555/mg.php?id=609158151&token=MYTOKEN666888
-çç«1,http://103.163.47.120:555/mg.php?id=608933610&token=MYTOKEN666888
-çç«2,http://103.163.47.120:555/mg.php?id=608933640&token=MYTOKEN666888
-çç«3,http://103.163.47.120:555/mg.php?id=608934619&token=MYTOKEN666888
-çç«4,http://103.163.47.120:555/mg.php?id=608934721&token=MYTOKEN666888
-çç«5,http://103.163.47.120:555/mg.php?id=608935104&token=MYTOKEN666888
-çç«6,http://103.163.47.120:555/mg.php?id=608935797&token=MYTOKEN666888
-çç«7,http://103.163.47.120:555/mg.php?id=609169286&token=MYTOKEN666888
-çç«8,http://103.163.47.120:555/mg.php?id=609169287&token=MYTOKEN666888
-çç«9,http://103.163.47.120:555/mg.php?id=609169226&token=MYTOKEN666888
-çç«10,http://103.163.47.120:555/mg.php?id=609169285&token=MYTOKEN666888
-更新日期: 2026-3-30 06:18:01,http://play.kankanlive.com/live/1698234869325962.m3u8
-å·´æå·´ææ¨±ä¹è±,https://cdn7.ryplay7.com/20241009/3516_c23ab1eb/index.m3u8
-ä¸­å¤©å¨±ä¹,http://47.104.163.156:50/å°æ¹¾.php?id=ztyl
+California Music Channel[geo-blocked],https://t.freetv.fun/live/california-music-channel-1.m3u8
+A&E[geo-blocked],https://t.freetv.fun/live/ch-ng-a-e.m3u8
+BABY(SD)[geo-blocked],https://t.freetv.fun/live/tao-baby.m3u8
+CN HD,https://t.freetv.fun/live/cnt.m3u8
+æ´å¤©tv,http://103.163.47.120:555/mg.php?id=608807420&token=MYTOKEN666889
+DGä¸å±,#group#
+äºåå«è§-,http://60.10.139.113:8801/hls/51/index.m3u8
+éè¥¿å«è§-,http://60.10.139.113:8801/hls/53/index.m3u8
+å±±è¥¿å«è§-,http://60.10.139.113:8801/hls/54/index.m3u8
+éæµ·å«è§-,http://60.10.139.113:8801/hls/56/index.m3u8
+å®å¤å«è§-,http://60.10.139.113:8801/hls/57/index.m3u8
+åèå¤å«è§-,http://60.10.139.113:8801/hls/55/index.m3u8
+AiTV,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+CCTVçµè§æå-,http://60.10.139.113:8801/hls/64/index.m3u8
+CCTVç¬¬ä¸å§åº-,http://60.10.139.113:8801/hls/65/index.m3u8
+CCTVé£äºå§åº-,http://60.10.139.113:8801/hls/66/index.m3u8
+CCTVææ§å§åº-,http://60.10.139.113:8801/hls/67/index.m3u8
+CCTVé£äºé³ä¹-,http://60.10.139.113:8801/hls/68/index.m3u8
+CCTVé£äºè¶³ç-,http://60.10.139.113:8801/hls/69/index.m3u8
+CCTVé«å°å¤«ç½ç-,http://60.10.139.113:8801/hls/70/index.m3u8
+CCTVå¥³æ§æ¶å°-,http://60.10.139.113:8801/hls/79/index.m3u8
+CCTVå¤®è§æåç²¾å-,http://60.10.139.113:8801/hls/80/index.m3u8
+CCTVåµå¨ç§æ-,http://60.10.139.113:8801/hls/72/index.m3u8
+CCTVä¸çå°ç-,http://60.10.139.113:8801/hls/73/index.m3u8
+CCTVèæäº-,http://60.10.139.113:8801/hls/74/index.m3u8
+ç¯çå¥è§-,http://60.10.139.113:8801/hls/75/index.m3u8
+æ­¦æ¯ä¸ç-,http://60.10.139.113:8801/hls/71/index.m3u8
+æç©å®åº-,http://60.10.139.113:8801/hls/76/index.m3u8
+æ¢¨å­é¢é-,http://60.10.139.113:8801/hls/86/index.m3u8
+å½å­¦é¢é-,http://60.10.139.113:8801/hls/77/index.m3u8
+æ±½æ©é¢é-,http://60.10.139.113:8801/hls/90/index.m3u8
+ä¸­å½å½éçµè§å°æ°é»é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225816/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ä¸­å½å½éçµè§å°çºªå½é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225707/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ä¸­å½å½éçµè§å°è¥¿ç­çè¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225875/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ä¸­å½å½éçµè§å°æ³è¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225878/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ä¸­å½å½éçµè§å°é¿æä¼¯è¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225822/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ä¸­å½å½éçµè§å°ä¿è¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225825/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+è¥¿èå«è§èè¯­é¢é,http://gxyd.484947.xyz/PLTV/77777777/224/3221225828/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+å¦é¨å«è§æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225823/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+åµå¢å«è§æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225795/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+å»¶è¾¹å«è§æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221226273/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+å®å¤å«è§æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221226271/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ä¸æ²å«è§(æ æ¸),http://gxyd.484947.xyz/PLTV/77777777/224/3221226405/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ä¸­å½æè²2å¥æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225881/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ä¸­å½æè²4å¥,http://gxyd.484947.xyz/PLTV/77777777/224/3221225723/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+é«å°å¤«æ æ¸4M,http://gxyd.484947.xyz/PLTV/77777777/224/3221225884/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+è°æå¤§å§,http://gxyd.484947.xyz/PLTV/77777777/224/3221225755/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+ç½çå§åº,http://gxyd.484947.xyz/PLTV/77777777/224/3221225681/index.m3u8?servicetype=3&IASHttpSessionId=OTT $å¹¿è¥¿ç§»å¨
+å«çå¥åº·,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub$ã38.75ã
+CCTVå¤®è§é«ç½,https://xmlive.zeabur.app/yw/whyd?id=custom10
+åªè§ç4K,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
+è³è»è§ç4K,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
+è³è»è§ç1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025943
+è³è»è§ç2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027638
+åªè§ç1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308
+åªè§ç2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969
+åªè§ç3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000007218
+åªè§ç4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001
+åªè§ç5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176
+åªè§ç6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379
+åªè§ç7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129
+åªè§ç8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948
+åªè§ç9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638
+åªè§ç10,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494
+åªè§ç11,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000010833
+åªè§ç12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297
+åªè§ç13,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011518
+åªè§ç14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558
+åªè§ç15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012616
+åªè§ç16,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015470
+åªè§ç17,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560
+åªè§ç18,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000017678
+åªè§ç19,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000019839
+åªè§ç20,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904
+åªè§ç21,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000023434
+åªè§ç22,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380
+åªè§ç23,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691
+åªåèµäº,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809
+åå·å³¨ççµå½±4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
+åäº¬æ·çµå½±,http://api.kkhk.itv888.vip:8080/streams/6403327f992/index.m3u8
+åäº¬éæ¸©ç»å¸,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
+é£äºæ¸¯å°,#group#
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+å°æ¹é¢é,#group#
+æµæ±é±æ±é½å¸,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+æµæ±é±æ±é½å¸,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+åµå·ç»¼å,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+è±¡å±±ç»¼å,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+æ°æç»¼å,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+éç°çµè§å°,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+è§å±±ç»¼å,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+è§å±±çæ´»,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+ä¸èæåå½±è§,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+æ®éçµè§å°,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+åºåçµè§å°,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+ä¸é³å½±è§çæ´»,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+ç¼äºæ°é»ç»¼å,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+é¾æ³çµè§å°,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+åäº¬ææçºªå½,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+åå°æ»¨èµè®¯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+åå°æ»¨å¨±ä¹,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+å´ä»çµè§å°,http://play-a2.quklive.com/live/1744277411242065.m3u8
+å´ä»çµè§å°,http://play-a2.quklive.com/live/1744277411242065.flv
+å®é½ç»¼å,http://play-a2.quklive.com/live/1749084198822069.m3u8
+å®é½ç»¼å,http://play-a2.quklive.com/live/1749084198822069.flv
+ä¸è½½çµè§å°1,http://play-a2.quklive.com/live/1739162440932308.m3u8
+ä¸è½½çµè§å°1,http://play-a2.quklive.com/live/1739162440932308.flv
+å¹¿ä¸°çµè§å°,https://play-a2.quklive.com/live/1754033359790055.m3u8
+å¹¿ä¸°çµè§å°,https://play-a2.quklive.com/live/1754033359790055.flv
+å®¿å·ç§æ,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+ä¸å·ä¸å³¡ç§»æ°,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+æå±±ç»¼å,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+è¾å²ç»¼å,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
+æå±±å¸çµè§å°,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+ç å±±å¿çµè§å°,http://live.ynurl.com/video/s10020-ystv-zb/index.m3u8
+ç å±±å¿çµè§å°,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+è¥¿ç´å¿çµè§å°,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
+è¥¿ç´å¿çµè§å°,http://live.ynurl.com/video/s10060-XCTV/index.m3u8
+é©¬å³å¿çµè§å°,http://live.ynurl.com/video/s10046-001/index.m3u8
+éº»æ å¡çµè§å°,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+ä¸åå¿çµè§å°,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+å¹¿åå¿çµè§å°,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
+å¹¿åå¿çµè§å°,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
+èå¸ç»¼å,http://live.ynurl.com/video/s10001-mstv1/index.m3u8
+çæ±ç»¼å,http://live.ynurl.com/video/s10016-yjtv1hd/index.m3u8
+å¼è¿ç»¼å,http://live.ynurl.com/video/s10044-KYTV/index.m3u8
+ç»¿æ¥ç»¼å,http://live.ynurl.com/video/s10042-LCTV/index.m3u8
+æ½ç¸ç»¼å,http://live.ynurl.com/video/s10048-SDTV/index.m3u8
+éå¹³ç»¼å,http://live.ynurl.com/video/s10041-JPTV/index.m3u8
+å»ºæ°´ç»¼å,http://live.ynurl.com/video/s10045-JSTV/index.m3u8
+ç³å±ç»¼å,http://live.ynurl.com/video/s10059-SPTV/index.m3u8
+èèªçµè§å°,http://live.ynurl.com/video/s10019-mzdst/index.m3u8
+æå®å¿çµè§å°,http://live.ynurl.com/video/s10047-cntv/index.m3u8
+ä¿å®1,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+ä¿å®2,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+ä¿å®3,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+å´éå½±è§,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+å´éå½±è§,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+éå¿ç»¼å,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+é¹¤å£æ°é»,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
+åå³ªå³ç»¼å,https://play.kankanlive.com/live/1658978094528926.m3u8
+åå³ªå³å¬å±,https://play.kankanlive.com/live/1658978141553927.m3u8
+éæç»¼å,http://play.kankanlive.com/live/1660096574549900.m3u8
+éæç»¼å,http://play.kankanlive.com/live/1660096574549900.flv
+å¼ ææ°é»,http://play.kankanlive.com/live/1675849013180979.m3u8
+å¼ ææ°é»,http://play.kankanlive.com/live/1675849013180979.flv
+å®è¥¿ç»¼å,https://play.kankanlive.com/live/1675303871634928.m3u8
+å®è¥¿ç»¼å,http://play.kankanlive.com/live/1675303871634928.flv
+å®è¥¿ææçæ´»,http://play.kankanlive.com/live/1675303983674929.m3u8
+å®è¥¿ææçæ´»,http://play.kankanlive.com/live/1675303983674929.flv
+å¤©ç¥çµè§å°,https://play.kankanlive.com/live/1656487214793905.m3u8
+éå®æ°é»ç»¼å,https://play.kankanlive.com/live/1658194434596952.m3u8
+æ¯æ³°çµè§å°,https://play.kankanlive.com/live/1624439143745981.m3u8
+è¥¿åç»¼å,https://play.kankanlive.com/live/1659926941626981.m3u8
+å¤æµªç»¼å,http://play.kankanlive.com/live/1647934328544907.m3u8
+å¤æµªç»¼å,http://play.kankanlive.com/live/1647934328544907.flv
+æ°¸æçµè§å°,https://play.kankanlive.com/live/1652755738635915.m3u8
+éè¥¿çµè§å°,https://play.kankanlive.com/live/1669881644081970.m3u8
+å¹³å·çµè§å°,http://play.kankanlive.com/live/1658907556249918.m3u8
+å¹³å·çµè§å°,http://play.kankanlive.com/live/1658907556249918.flv
+å²·å¿çµè§å°,http://play.kankanlive.com/live/1672715401874967.m3u8
+å²·å¿çµè§å°,http://play.kankanlive.com/live/1672715401874967.flv
+åºæµªçµè§å°,https://play.kankanlive.com/live/1655107221272926.m3u8
+éå·çµè§å°,http://play.kankanlive.com/live/1657360567739997.m3u8
+éå·çµè§å°,http://play.kankanlive.com/live/1657360567739997.flv
+å®å®çµè§å°,https://play.kankanlive.com/live/1672881652415978.m3u8
+å®å®çµè§å°,http://play.kankanlive.com/live/1672881652415978.flv
+éè¿çµè§å°,https://play.kankanlive.com/live/1658390970673988.m3u8
+å¤©ç¥çµè§å°,https://play.kankanlive.com/live/1656487214793905.m3u8
+å¤©ç¥çµè§å°,http://play.kankanlive.com/live/1656487214793905.m3u8
+å¤©ç¥çµè§å°,http://play.kankanlive.com/live/1656487214793905.flv
+éè¿çµè§å°,https://play.kankanlive.com/live/1658390970673988.m3u8
+éæ¸­çµè§å°,http://play.kankanlive.com/live/1661761962676984.m3u8
+éæ¸­çµè§å°,http://play.kankanlive.com/live/1661761962676984.flv
+ç§¦å®çµè§å°,https://play.kankanlive.com/live/1680577080200944.m3u8
+ç§¦å®çµè§å°,http://play.kankanlive.com/live/1680577080200944.flv
+更新日期: 2026-4-2 07:18:45,http://pull-hls-f11.douyincdn.com/media/stream-407352347386708652.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775687562&major_anchor_level=common&sign=8120b3fc3ed9fa2f1f7eb400c9168b9a&t_id=037-20260402063241C3EA67C26D88179B4B9E-V89dvG
+â¤ï¸å¹¿ä¸4K,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
+â¤ï¸åå·å«è§4K,http://rihou.cc:555/tv/åå·å«è§4K
+â¤ï¸å³¨ççµå½±4K 
+â¤ï¸åäº¬IPTV4K
+æ·çµå½± 
+æ·å¨±ä¹ 
+æ·å§åº 
+æ·Baby 
+æ·èå®  
+CHCå¨ä½çµå½±,http://rihou.cc:555/tv/CHCå¨ä½çµå½±
+é¢éæµè¯,http://rihou.cc:555/tv/cs
+ç¾äºçµå½±
+NOWçè°·,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+æç©ºå½é
+çº¬æ¥çµå½±,http://rihou.cc:555/tv/çº¬æ¥çµå½±
+1905ç¯çç»å¸ å¤±æhttp://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
+æ¾³é¨è²è± 
+å¤å°çµå½±,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$æµæ±/ç»å´/çµä¿¡
+è°è§£å§åº,http://39.165.39.49:85/tsfile/live/1124_1.m3u8?key=txiptv&playlive=0&authid=0
+å°è¦æ°è,http://nctcpc.com:38981/stream/channelid/1392529866?ticket=20f21d79d7b692600b382c330c643c4b931e7b44&profile=pass
+è¯è¦æ°è,http://nctcpc.com:38981/stream/channelid/320561478?ticket=7e0c7d7058d07679306b3fb1abc441f82d6da587&profile=pass
+TaiwanPlus,http://nctcpc.com:38981/stream/channelid/201856179?ticket=c54aba4f1ec46bf6b1b9aa96edfb0d32c8eaf290&profile=pass
+ä¸­è¦èéå°,http://nctcpc.com:38981/stream/channelid/1285813917?ticket=d61f5031324da74604c2fcda5d4746aa2ef98228&profile=pass
+å¬è¦ PTS,http://nctcpc.com:38981/stream/channelid/2131319261?ticket=02ffaa74b6e741aa10cde9d1d79c77b922bbde2a&profile=pass
+åä½æ°æé»è¦å°,http://nctcpc.com:38981/stream/channelid/2104211877?ticket=ed53b7695520e155f48f273b078e593bf11a82d7&profile=pass
+å°è¦,http://nctcpc.com:38981/stream/channelid/1061269580?ticket=4b5c23daf556589608342630f30f493cf60be5f7&profile=pass
+å°è¦ç¶å,http://nctcpc.com:38981/stream/channelid/1044713361?ticket=dd4bd0d554fa94ade93e032142db13d36f31afd5&profile=pass
+å°è¦è²¡ç¶,http://nctcpc.com:38981/stream/channelid/509783080?ticket=7b42cacaab69c586551f3c809a172111b5b60c96&profile=pass
+å°å¬è¦,http://nctcpc.com:38981/stream/channelid/352036757?ticket=348182605f4fcc235bf9ff0d0531e03e9575ef6c&profile=pass
+æ°è¦,http://nctcpc.com:38981/stream/channelid/783181249?ticket=58814ce48d9561070cbc5696338c5e7dd416efd0&profile=pass
+æ°è¦å°ç£,http://nctcpc.com:38981/stream/channelid/1243774991?ticket=0cd0396ef05ea4b12a0def6019dff1e5b1226bd6&profile=pass
+æ°è¦æ°è,http://nctcpc.com:38981/stream/channelid/1323392111?ticket=bbf9a9c0dcbbf102cc33bc4dbd71f3a44c9ddc3c&profile=pass
+æ°è¦ç¬¬ä¸,http://nctcpc.com:38981/stream/channelid/859905572?ticket=44729f776de93e70cd1481ce4f434f15e89f0762&profile=pass
+è¯è¦CTS,http://nctcpc.com:38981/stream/channelid/122114341?ticket=ac282ee9ea130e5f72acc9cbe278dfc9549a0118&profile=pass
+è¯è¦æè²é«è²æå,http://nctcpc.com:38981/stream/channelid/1850091127?ticket=d8345832c6ed8d534f5e0096c749532ace397e58&profile=pass
+ä¸­è¦,http://nctcpc.com:38981/stream/channelid/475201081?ticket=15621385187ab928f871153cb33486ee6a8fd47e&profile=pass
+ä¸­è¦ç¶å¸,http://nctcpc.com:38981/stream/channelid/245334301?ticket=59ddc695b9c4ba39c26c370f54fcb79cacac2f3c&profile=pass
+å¬è¦å°èª,http://nctcpc.com:38981/stream/channelid/1615968811?ticket=86717a29e28f5da6ecd45719f5808ac2b057e106&profile=pass
+åæé »é1,http://nctcpc.com:38981/stream/channelid/882971982?ticket=e90f48f2bf1b347a44f59e4ea281f096edc3422e&profile=pass
+åæé »é2,http://nctcpc.com:38981/stream/channelid/210589410?ticket=ecbb5a2d25ad8302c20f7ca05958618356786b33&profile=pass
+å®¢å®¶é»è¦,http://nctcpc.com:38981/stream/channelid/1775057655?ticket=71f3dffb24f54c31dc1f01e7b74b7ee253767112&profile=pass
+NHK G Osaka (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+MBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+ABC (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+Kansai TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+ytv (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+TV Osaka (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+SUN (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+NHK BS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+BS NTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+BS Asahi (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+BS TBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS TV Tokyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+BS Fuji (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+NHK BS4K (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+WOWOW Prime (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+WOWOW Cinema (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+WOWOW Live (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+BS 10 Star Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+JSport 1 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+JSport 2 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+JSport 3 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+JSport 4 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+Green Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+Animax (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+Nihon Eiga Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+Sky A (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+Fishing Vision (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+Disney Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+JCOM BS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+Mnet,https://nl.utako.moe/mnet/index.m3u8
+Jidaigeki Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+Toei Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+Eisei Gekijo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+Family Gekijyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+Movie Plus (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+Home Drama Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+Tabi Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+Fuji TV Next (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+Sky A  (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+GAORA SPORTS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+Golf Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+Nittele G+ (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+Mondo TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+Channel Ginga (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+Space Shower TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+Music Japan TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+Kayo Pops (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+MTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+LaLa TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+Takarazuka Sky Stage (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+Kids Staton TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+Cartoon Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+National Geographic Japan (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+Disney Junior (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+Discovery Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+Animal Planet (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+History (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+CNNj (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+BBC News (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+TBS News (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
