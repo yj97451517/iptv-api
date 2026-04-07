@@ -2,10 +2,8 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
-
+# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 http://gc.gt.tc/c/飛龍TV.txt
-http://103.163.47.120:555/咪咕.txt
 https://iptv.cwys.top/iptv2.php?list
 https://iptv.b2og.com/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/q_bj_iptv_mobile_m.txt
@@ -18,8 +16,7 @@ https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfac
 https://t.freetv.fun/m3u/playlist.txt
 https://t.freetv.fun/m3u/united_states.txt
 
-
-# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+# http://103.163.47.120:555/咪咕.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
